@@ -1,0 +1,705 @@
+car_brand,car_model,car_variant,car_price,car_transmission,car_mileage,car_year,car_location,car_link
+Toyota,YARIS,YARIS 1.5 S CVT GR SPORT,285600000,AT,10634,2021,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-yaris-1-5-s-cvt-gr-sport-2021/p/SN202212-0000006108
+Toyota,AVANZA,VELOZ 1.5 Q CVT,285600000,AT,15338,2022,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-veloz-1-5-q-cvt-2022/p/SN202212-0000000102
+Toyota,RAIZE,RAIZE 1.0T GR SPORT CVT TSS,280500000,AT,15244,2021,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-raize-raize-1-0t-gr-sport-cvt-tss-2021/p/SN202212-0000001001
+Toyota,RAIZE,GR TURBO SPORT TSS 2T (RAIZE),260000000,AT,11878,2022,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-raize-gr-turbo-sport-tss-2t-2022/p/SN202306-000000361
+Toyota,INNOVA,V (INNOVA),423300000,AT,23178,2022,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-innova-v-2022/p/SN202307-0000000023
+Toyota,CX5,CX5 GT,510000000,AT,24506,2020,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-cx5-cx5-gt-2020/p/SN202210-0000000003
+Toyota,FORTUNER,FORTUNER 2.4 VRZ TRD AT DIESEL (NEW),525300000,AT,53103,2020,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-fortuner-2-4-vrz-trd-at-diesel-2020/p/SN202210-0000000040
+Toyota,INNOVA,2.0 V ,413100000,AT,17053,2022,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-innova-2-4-v-2022/p/SN202301-0000002006
+Toyota,AGYA,AGYA 1.2 G AT TRD BENSIN (ALL NEW),168300000,AT,14002,2021,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-agya-agya-1-2-g-at-trd-bensin-2021/p/SN202212-0000001103
+Toyota,AGYA,G TRD (AGYA),137000000,AT,23890,2018,Kota Jakarta Utara,https://www.mobbi.id/in/mobil-bekas/toyota-agya-g-trd-2018/p/SN202112-000000454
+Toyota,RUSH,S TRD (RUSH),247000000,AT,29012,2021,Kota Palembang,https://www.mobbi.id/in/mobil-bekas/toyota-rush-s-trd-2021/p/SN202306-000000140
+Toyota,FORTUNER,FORTUNER 2.4 VRZ TRD AT DIESEL (NEW),499800000,AT,32159,2019,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-fortuner-2-4-vrz-trd-at-diesel-2019/p/SN202212-0000006054
+Toyota,RUSH,S TRD (RUSH),231000000,AT,66467,2018,Kota Medan,https://www.mobbi.id/in/mobil-bekas/toyota-rush-s-trd-2018/p/SN202303-000000166
+Toyota,CALYA,G (CALYA),146000000,AT,45656,2019,Kota Semarang,https://www.mobbi.id/in/mobil-bekas/toyota-calya-g-2019/p/SN202306-000000163
+Toyota,ALTIS,V NEW (ALTIS),344000000,AT,46280,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-altis-v-new-2019/p/SN202306-000000168
+Toyota,YARIS,S TRD 7AB (YARIS),238000000,AT,28295,2019,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-s-trd-7ab-2019/p/SN202303-000000355
+Toyota,YARIS,S TRD HEYKERS (YARIS),206800000,AT,39596,2017,Kota Balikpapan,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-s-trd-heykers-2017/p/SN202307-000000381
+Toyota,FORTUNER,VRZ TRD (FORTUNER),505000000,AT,63969,2020,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-vrz-trd-2020/p/SN202305-000000798
+Toyota,YARIS,S TRD (YARIS),190000000,AT,36637,2018,Kota Medan,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-s-trd-2018/p/SN202305-000000803
+Toyota,RUSH,S TRD (RUSH),145000000,AT,102801,2013,Kota Palembang,https://www.mobbi.id/in/mobil-bekas/toyota-rush-s-trd-2013/p/SN202306-000000009
+Toyota,SIENTA,Q (SIENTA),229000000,AT,39340,2019,Kota Semarang,https://www.mobbi.id/in/mobil-bekas/toyota-sienta-q-2019/p/SN202306-000000048
+Toyota,FORTUNER,VRZ (FORTUNER),453000000,AT,58899,2019,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-vrz-2019/p/SN202306-000000054
+Toyota,YARIS,S TRD 7AB (YARIS),224000000,AT,62237,2018,Kota Semarang,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-s-trd-7ab-2018/p/SN202306-000000056
+Toyota,CALYA,G (CALYA),129000000,MT,46153,2019,Kota Semarang,https://www.mobbi.id/in/mobil-bekas/toyota-calya-g-2019/p/SN202306-000000059
+Toyota,C-HR,HYBRID (C-HR),450000000,AT,23638,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-c-hr-hybrid-2021/p/SN202306-000000351
+Toyota,AGYA,G (AGYA),135000000,MT,33963,2019,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/-agya-g-2019/p/SN202307-000000247
+Toyota,FORTUNER,VRZ (FORTUNER),461000000,AT,51055,2018,Kota Medan,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-vrz-2018/p/SN202305-000000338
+Toyota,INNOVA,G (INNOVA),319000000,AT,85825,2017,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-innova-g-2017/p/SN202306-000000200
+Toyota,INNOVA,G (INNOVA),322000000,MT,87857,2019,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/toyota-innova-g-2019/p/SN202306-000000210
+Toyota,FORTUNER,FORTUNER 2.4 VRZ AT DIESEL (NEW),469200000,AT,86470,2019,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-fortuner-2-4-vrz-at-diesel-2019/p/SN202210-0000000039
+Toyota,INNOVA,V LUX (INNOVA),345000000,MT,55533,2017,Kota Jakarta Pusat,https://www.mobbi.id/in/mobil-bekas/toyota-innova-v-lux-2017/p/SN202306-000000418
+Toyota,INNOVA,G LUX (INNOVA),340000000,AT,38745,2018,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-innova-g-lux-2018/p/SN202306-000000431
+Toyota,FORTUNER,VRZ (FORTUNER),421000000,AT,77804,2018,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-vrz-2018/p/SN202306-000000460
+Toyota,YARIS,S TRD (YARIS),206000000,AT,55134,2017,Kota Jakarta Utara,https://www.mobbi.id/in/mobil-bekas/Toyota-YARIS/p/SN201912-000000028
+Toyota,FORTUNER,VRZ (FORTUNER),456500000,AT,76099,2018,Kota Palembang,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-vrz-2018/p/SN202305-000000318
+Toyota,RUSH,S TRD SPORTIVO ULTIMO (RUSH),197000000,MT,47491,2017,Kota Palembang,https://www.mobbi.id/in/mobil-bekas/toyota-rush-s-trd-sportivo-ultimo-2017/p/SN202305-000000608
+Toyota,AGYA,G TRD (AGYA),145000000,AT,55613,2019,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-agya-g-trd-2019/p/SN202306-000000285
+Toyota,RUSH,S TRD (RUSH),177000000,AT,99237,2016,Kab. Tangerang,https://www.mobbi.id/in/mobil-bekas/toyota-rush-s-trd-2016/p/SN202306-000000296
+Toyota,SIENTA,V (SIENTA),215000000,AT,36588,2019,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-sienta-v-2019/p/SN202306-000000327
+Toyota,INNOVA,G (INNOVA),261000000,AT,86610,2017,Kota Depok,https://www.mobbi.id/in/mobil-bekas/toyota-innova-g-2017/p/SN202307-000000167
+Toyota,AGYA,G (AGYA),105600000,MT,43496,2017,Kota Pekanbaru,https://www.mobbi.id/in/mobil-bekas/toyota-agya-g-2017/p/SN202307-000000207
+Toyota,ALTIS,V (ALTIS),287000000,AT,78592,2018,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-altis-v-2018/p/SN202203-000000218
+Toyota,INNOVA,G (INNOVA),202000000,AT,58087,2015,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-innova-g-2015/p/SN202306-000000124
+Toyota,CAMRY,V (CAMRY),218000000,AT,92922,2013,Kota Palembang,https://www.mobbi.id/in/mobil-bekas/toyota-camry-v-2013/p/SN202303-000000337
+Toyota,FORTUNER,G VNT (FORTUNER),274000000,MT,107301,2013,Kota Palembang,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-g-vnt-2013/p/SN202303-000000401
+Toyota,INNOVA,G LUX (INNOVA),209000000,AT,105287,2015,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-innova-g-lux-2015/p/SN202303-000000269
+Toyota,SIENTA,V (SIENTA),181000000,AT,119000,2017,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-sienta-v-2017/p/SN202305-000000766
+Toyota,INNOVA,G (INNOVA),355000000,MT,31500,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-innova-g-2020/p/SN202306-000000323
+Toyota,ALPHARD,ALPHARD 2.4 X A/T (NEW),306000000,AT,107593,2014,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-alphard-alphard-2-4-x-a-t-2014/p/SN202212-0000001101
+Toyota,ALTIS,V NEW (ALTIS),267000000,AT,85108,2017,Kota Jakarta Timur,https://www.mobbi.id/in/mobil-bekas/toyota-altis-v-new-2017/p/SN202305-000000583
+Toyota,INNOVA,V (INNOVA),357000000,AT,35749,2018,Kota Balikpapan,https://www.mobbi.id/in/mobil-bekas/Toyota-INNOVA/p/SN202101-000000203
+Toyota,YARIS,S TRD 7AB (YARIS),225000000,AT,41311,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-s-trd-7ab-2019/p/SN202305-000000584
+Toyota,RUSH,S TRD SPORTIVO ULTIMO (RUSH),172000000,MT,142116,2017,Kota Jakarta Pusat,https://www.mobbi.id/in/mobil-bekas/toyota-rush-s-trd-sportivo-ultimo-2017/p/SN202306-000000164
+Toyota,AVANZA,G (AVANZA),135000000,AT,122917,2015,Kota Jakarta Utara,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-g-2015/p/SN202305-000000343
+Toyota,INNOVA,G LUX (INNOVA),298000000,MT,158699,2018,Kota Depok,https://www.mobbi.id/in/mobil-bekas/toyota-innova-g-lux-2018/p/SN202307-000000413
+Toyota,INNOVA,G (INNOVA),275000000,MT,140699,2017,Kota Jakarta Timur,https://www.mobbi.id/in/mobil-bekas/toyota-innova-g-2017/p/SN202305-000000058
+Toyota,INNOVA,V (INNOVA),262000000,AT,110127,2016,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-innova-v-2016/p/SN202306-000000042
+Toyota,YARIS,S TRD 7AB (YARIS),210000000,AT,84476,2018,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-s-trd-7ab-2018/p/SN202306-000000350
+Toyota,INNOVA,V (INNOVA),237000000,MT,90894,2014,Kota Jakarta Pusat,https://www.mobbi.id/in/mobil-bekas/toyota-innova-v-2014/p/SN202306-000000355
+Toyota,AVANZA,G (AVANZA),158000000,AT,90836,2017,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-g-2017/p/SN202306-000000209
+Toyota,YARIS,S TRD 7AB (YARIS),213000000,AT,72529,2018,Kota Jakarta Pusat,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-s-trd-7ab-2018/p/SN202307-000000031
+Toyota,FORTUNER,G (FORTUNER),159000000,AT,263579,2008,Kota Palembang,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-g-2008/p/SN202306-000000467
+Toyota,YARIS,S TRD (YARIS),176000000,AT,78241,2015,Kota Medan,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-s-trd-2015/p/SN202304-000000135
+Toyota,YARIS,S TRD NEW (YARIS),230000000,AT,54120,2018,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-s-trd-new-2018/p/SN202305-000000421
+Toyota,CALYA,G (CALYA),129000000,AT,36759,2018,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-g-2018/p/SN202305-000000778
+Toyota,FORTUNER,VRZ TRD (FORTUNER),409000000,AT,140214,2019,Kota Jakarta Pusat,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-vrz-trd-2019/p/SN202306-000000273
+Toyota,YARIS,S TRD (YARIS),170500000,AT,57599,2014,Kota Medan,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-s-trd-2014/p/SN202307-000000627
+Toyota,YARIS,S TRD 7AB (YARIS),212000000,AT,85899,2019,Kota Jakarta Pusat,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-s-trd-7ab-2019/p/SN202306-000000530
+Toyota,FORTUNER,VRZ TRD (FORTUNER),389000000,AT,73721,2017,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-vrz-trd-2017/p/SN202306-000000534
+Toyota,CAMRY,HYBRID (CAMRY),240000000,AT,82000,2014,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-camry-hybrid-2014/p/SN202305-000000206
+Toyota,FORTUNER,FORTUNER 2.4 VRZ TRD AT DIESEL (NEW),494700000,AT,45169,2020,Kota Bogor,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-fortuner-2-4-vrz-trd-at-diesel-2020/p/SN202207-0000001148
+Toyota,RUSH,RUSH 1.5 S AT TRD BENSIN (ALL NEW),241568400,AT,51760,2019,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/toyota-rush-rush-1-5-s-at-trd-bensin-2019/p/SN202208-0000004024
+Toyota,CALYA,1.2 G M/T,130075000,AT,32079,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2021/p/SN202305-0000000346
+Toyota,AGYA,1.2 G TRD M/T NEW,111262500,AT,59013,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-agya-1-2-g-trd-m-t-new-2019/p/SN202305-0000000340
+Toyota,CALYA,1.2 G M/T,113950000,Manual,1111,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2019/p/SN202305-0000000320
+Toyota,ALL NEW RUSH,1.5 S A/T LUX GR,243487500,AT,36908,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-all-new-rush-1-5-s-a-t-lux-gr-2021/p/SN202306-0000003014
+Toyota,AVANZA,1.3 G A/T GRANDe,161787500,Automatic,11405,2018,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-1-3-g-a-t-grande-2018/p/SN202306-0000003018
+Toyota,CALYA,1.2 G A/T,143512500,Automatic,19537,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-a-t-2022/p/SN202306-0000003021
+Toyota,RUSH,1.5 S A/T TRD,221987500,Automatic,35340,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-rush-1-5-s-a-t-trd-2020/p/SN202306-0000003022
+Toyota,CALYA,1.2 G A/T,141900000,Automatic,14715,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-a-t-2022/p/SN202306-0000003023
+Toyota,VELOZ,1.5 Q CVT,246175000,AT,11876,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-veloz-1-5-q-cvt-2022/p/SN202306-0000003035
+Toyota,FORTUNER,VRZ TRD (FORTUNER),500000000,AT,76739,2020,Kota Medan,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-vrz-trd-2020/p/SN202306-000000127
+Toyota,CALYA,1.2 G M/T,140287500,Manual,35672,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2022/p/SN202306-0000003067
+Toyota,CALYA,1.2 G M/T,133300000,Manual,36467,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2021/p/SN202306-0000003074
+Toyota,INNOVA,G (INNOVA),330000000,MT,129321,2018,Kota Medan,https://www.mobbi.id/in/mobil-bekas/toyota-innova-g-2018/p/SN202307-000000364
+Toyota,RUSH,G (RUSH),216000000,AT,39685,2019,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-rush-g-2019/p/SN202307-000000370
+Toyota,INNOVA,INNOVA 2.4 VENTURER AT DIESEL (REBORN),418000000,AT,74544,2019,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-innova-innova-2-4-venturer-at-diesel-2019/p/SN202208-0000000029
+Toyota,RAIZE,RAIZE 1.0T GR SPORT CVT,226440000,AT,17020,2021,Kota Medan,https://www.mobbi.id/in/mobil-bekas/toyota-raize-raize-1-0t-gr-sport-cvt-2021/p/SN202303-0000003006
+Toyota,YARIS,YARIS 1.5 S AT TRD (ALL NEW),226440000,AT,28874,2019,Kota Medan,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-yaris-1-5-s-at-trd-2019/p/SN202303-0000003008
+Toyota,AVANZA,VELOZ 1.5 AT (NEW),140000000,AT,174624,2015,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-veloz-1-5-at-2015/p/SN202304-0000002003
+Toyota,FORTUNER,4X4 2.4 VRZ A/T DIESEL,453650000,AT,90733,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-4x4-2-4-vrz-a-t-diesel-2019/p/SN202306-0000004006
+Toyota,AVANZA,G (AVANZA),180400000,AT,31393,2019,Kota Semarang,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-g-2019/p/SN202306-000000175
+Toyota,CALYA,1.2 G M/T,134912500,AT,36129,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2022/p/SN202306-0000004026
+Toyota,CALYA,1.2 G M/T,126312500,Manual,86840,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2022/p/SN202306-0000004031
+Toyota,FORTUNER,VRZ TRD (FORTUNER),465000000,AT,51244,2019,Kota Jakarta Timur,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-vrz-trd-2019/p/SN202306-000000559
+Toyota,CALYA,1.2 G M/T,163400000,AT,11663,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2023/p/SN202306-0000010076
+Toyota,INNOVA,Q (INNOVA),284000000,AT,112704,2017,Kota Depok,https://www.mobbi.id/in/mobil-bekas/toyota-innova-q-2017/p/SN202307-000000388
+Toyota,AGYA,E (AGYA),83000000,MT,36612,2016,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-agya-e-2016/p/SN202307-000000399
+Toyota,INNOVA,G (INNOVA),382000000,AT,36190,2021,Kota Palembang,https://www.mobbi.id/in/mobil-bekas/toyota-innova-g-2021/p/SN202307-000000402
+Toyota,AVANZA,VELOZ (AVANZA),164000000,AT,88453,2017,Kab. Tangerang,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-veloz-2017/p/SN202307-000000422
+Toyota,INNOVA,V (INNOVA),350000000,AT,142056,2018,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/toyota-innova-v-2018/p/SN202307-000000455
+Toyota,AGYA,1.2 G TRD M/T NEW,115025000,Manual,38997,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-agya-1-2-g-trd-m-t-new-2019/p/SN202307-0000001003
+Toyota,CALYA,1.2 G M/T,140287500,Manual,16621,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2022/p/SN202307-0000001005
+Toyota,ALL NEW RUSH,1.5 S M/T GR SPORT,256925000,Manual,14191,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-all-new-rush-1-5-s-m-t-gr-sport-2022/p/SN202307-0000001007
+Toyota,CALYA,1.2 G M/T,137600000,Manual,91945,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2022/p/SN202307-0000001010
+Toyota,AGYA,1.2 G TRD A/T NEW,122550000,Automatic,148723,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-agya-1-2-g-trd-a-t-new-2020/p/SN202307-0000001018
+Toyota,RUSH,1.5 G A/T,225642500,Automatic,14545,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-rush-1-5-g-a-t-2020/p/SN202307-0000001023
+Toyota,ALL NEW YARIS,1.5 S CVT TRD,227900000,Automatic,6930,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-all-new-yaris-1-5-s-cvt-trd-2020/p/SN202307-0000001028
+Toyota,FORTUNER,4X2 2.8 VRZ A/T GR SPORT,556312500,Automatic,3343,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-4x2-2-8-vrz-a-t-gr-sport-2022/p/SN202307-0000002013
+Toyota,ALPHARD,G NEW (ALPHARD),1013000000,AT,34851,2019,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/toyota-alphard-g-new-2019/p/SN202301-000000260
+Toyota,AVANZA,GRAND AVANZA 1.3 G AT BENSIN,163200000,AT,95840,2018,Kota Medan,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-grand-avanza-1-3-g-at-bensin-2018/p/SN202302-0000001024
+Toyota,AVANZA,GRAND AVANZA 1.3 G AT BENSIN,163200000,AT,56000,2017,Kota Medan,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-grand-avanza-1-3-g-at-bensin-2017/p/SN202302-0000001023
+Toyota,RAIZE,1.2 G ONE TONE CVT,204787500,AT,7177,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-raize-1-2-g-one-tone-cvt-2022/p/SN202305-0000000707
+Toyota,VELOZ,1.5 Q CVT TSS,270900000,AT,30077,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-veloz-1-5-q-cvt-tss-2022/p/SN202306-0000001009
+Toyota,ALL NEW AVANZA,1.3 E CVT,199950000,Automatic,22371,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-all-new-avanza-1-3-e-cvt-2022/p/SN202306-0000008028
+Toyota,YARIS,S TRD 7AB (YARIS),228000000,AT,25871,2018,Kota Jakarta Timur,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-s-trd-7ab-2018/p/SN202306-000000370
+Toyota,RUSH,S TRD NEW (RUSH),169400000,MT,134022,2015,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-rush-s-trd-new-2015/p/SN202306-000000401
+Toyota,AGYA,G TRD (AGYA),132000000,AT,45144,2017,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-agya-g-trd-2017/p/SN202306-000000402
+Toyota,INNOVA,G (INNOVA),232000000,AT,155512,2016,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/-innova-g-2016/p/SN202307-000000246
+Toyota,CALYA,1.2 E M/T,111800000,Manual,34732,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-e-m-t-2020/p/SN202307-0000000167
+Toyota,CALYA,1.2 G M/T,123625000,AT,143270,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2021/p/SN202307-0000000171
+Toyota,CALYA,1.2 G M/T,105887500,Manual,153430,2018,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2018/p/SN202307-0000000177
+Toyota,AVANZA,G (AVANZA),195800000,AT,82219,2019,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-g-2019/p/SN202307-000000261
+Toyota,INNOVA,Q VENTURER (INNOVA),434000000,AT,68437,2019,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-innova-q-venturer-2019/p/SN202307-000000264
+Toyota,AGYA,1.2 G GR SPORT M/T,123087500,Manual,102243,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-agya-1-2-g-gr-sport-m-t-2021/p/SN202307-0000000192
+Toyota,AGYA,1.2 G TRD M/T NEW,137600000,AT,29407,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-agya-1-2-g-trd-m-t-new-2021/p/SN202307-0000000204
+Toyota,CALYA,1.2 G M/T,130612500,AT,30000,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2021/p/SN202307-0000000212
+Toyota,ALL NEW AVANZA,1.5 G CVT,226287500,AT,77152,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-all-new-avanza-1-5-g-cvt-2022/p/SN202307-0000000219
+Toyota,CALYA,1.2 G M/T,103737500,AT,136403,2018,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2018/p/SN202307-0000000222
+Toyota,CALYA,1.2 G M/T,100512500,AT,60000,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2019/p/SN202307-0000000225
+Toyota,CALYA,1.2 E M/T,113412500,Manual,85083,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-e-m-t-2019/p/SN202307-0000000226
+Toyota,INNOVA,G (INNOVA),243000000,AT,126371,2015,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-innova-g-2015/p/SN202307-000000272
+Toyota,CALYA,1.2 G M/T,140287500,AT,25034,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2022/p/SN202307-0000000227
+Toyota,CALYA,1.2 G M/T,129000000,AT,75706,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2021/p/SN202307-0000000232
+Toyota,CALYA,1.2 G M/T,149425000,AT,15000,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2022/p/SN202307-0000000237
+Toyota,CALYA,1.2 G M/T,148350000,AT,45000,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2020/p/SN202307-0000000238
+Toyota,AVANZA,G (AVANZA),190740000,AT,112000,2019,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-g-2019/p/SN202307-0000000240
+Toyota,AGYA,G (AGYA),137000000,MT,30743,2021,Kota Jakarta Pusat,https://www.mobbi.id/in/mobil-bekas/toyota-agya-g-2021/p/SN202203-000000540
+Toyota,VOXY,2.0 AT,375430000,AT,107210,2017,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/toyota-voxy-2-0-at-2017/p/SN202204-0000000135
+Toyota,RUSH,RUSH 1.5 S MT TRD BENSIN (NEW),191715000,MT,133837,2017,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/toyota-rush-rush-1-5-s-mt-trd-bensin-2017/p/SN202210-0000006106
+Toyota,YARIS,YARIS 1.5 S MT TRD (ALL NEW),224400000,MT,36235,2020,Kota Medan,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-yaris-1-5-s-mt-trd-2020/p/SN202210-0000006112
+Toyota,AVANZA,VELOZ 1.5 AT (GRAND NEW),165240000,AT,104709,2016,Kota Medan,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-veloz-1-5-at-2016/p/SN202210-0000006114
+Toyota,CALYA,CALYA 1.2 G M/T,120360000,MT,39147,2017,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-calya-calya-1-2-g-m-t-2017/p/SN202210-0000006119
+Toyota,RUSH,RUSH 1.5 S AT TRD BENSIN (ALL NEW),244800000,AT,60310,2019,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-rush-rush-1-5-s-at-trd-bensin-2019/p/SN202303-0000008022
+Toyota,AGYA,AGYA 1.2 G AT TRD BENSIN (NEW),137700000,AT,66156,2019,Kota Medan,https://www.mobbi.id/in/mobil-bekas/toyota-agya-agya-1-2-g-at-trd-bensin-2019/p/SN202304-0000002042
+Toyota,CALYA,1.2 E M/T,99975000,AT,77463,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/-calya-1-2-e-m-t-2019/p/SN202305-0000000598
+Toyota,CALYA,1.2 G M/T,104812500,AT,119860,2018,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2018/p/SN202305-0000000599
+Toyota,CALYA,1.2 G A/T,150500000,AT,14437,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-a-t-2022/p/SN202305-0000000618
+Toyota,AVANZA,VELOZ 1.5 MT (GRAND NEW),188700000,MT,41178,2019,Kab. Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-veloz-1-5-mt-2019/p/SN202305-0000000627
+Toyota,ALTIS,G (ALTIS),124000000,AT,143566,2013,Kota Denpasar,https://www.mobbi.id/in/mobil-bekas/toyota-altis-g-2013/p/SN202306-000000217
+Toyota,CALYA,1.2 G M/T,138137500,AT,33015,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2022/p/SN202306-0000010106
+Toyota,AGYA,1.2 G GR SPORT A/T,152112500,AT,25232,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-agya-1-2-g-gr-sport-a-t-2022/p/SN202306-0000010114
+Toyota,AGYA,1.2 G TRD A/T NEW,131150000,AT,74557,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-agya-1-2-g-trd-a-t-new-2020/p/SN202306-0000010121
+Toyota,AGYA,GR SPORT (AGYA),159000000,AT,15283,2022,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-agya-gr-sport-2022/p/SN202307-000000003
+Toyota,RUSH,S TRD (RUSH),215000000,MT,28958,2020,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-rush-s-trd-2020/p/SN202307-000000008
+Toyota,NEW AGYA,1.2 G GR SPORT A/T,151575000,Automatic,23705,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-new-agya-1-2-g-gr-sport-a-t-2022/p/SN202307-0000010131
+Toyota,AGYA,G (AGYA),101000000,AT,70835,2014,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-agya-g-2014/p/SN202307-000000026
+Toyota,AVANZA,VELOZ 1.5 AT (GRAND NEW),178500000,AT,91074,2017,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-veloz-1-5-at-2017/p/SN202307-0000000242
+Toyota,AVANZA,VELOZ 1.5 MT (GRAND NEW),204000000,MT,49796,2019,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-veloz-1-5-mt-2019/p/SN202307-0000000243
+Toyota,SIENTA,1.5 G CVT,172537500,Automatic,125358,2018,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-sienta-1-5-g-cvt-2018/p/SN202307-0000000247
+Toyota,NEW AGYA,1.2 G GR SPORT M/T,126850000,Manual,25394,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-new-agya-1-2-g-gr-sport-m-t-2021/p/SN202307-0000000253
+Toyota,NEW AGYA,1.2 G GR SPORT M/T,134375000,Manual,18189,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-new-agya-1-2-g-gr-sport-m-t-2022/p/SN202307-0000000258
+Toyota,AGYA,G TRD (AGYA),132000000,AT,81329,2017,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-agya-g-trd-2017/p/SN202307-000000039
+Toyota,CALYA,G (CALYA),140000000,AT,39552,2019,Kota Jakarta Pusat,https://www.mobbi.id/in/mobil-bekas/toyota-calya-g-2019/p/SN202307-000000041
+Toyota,VELOZ,1.5 Q CVT TSS,291325000,AT,37442,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-veloz-1-5-q-cvt-tss-2022/p/SN202307-0000000007
+Toyota,NEW AGYA,1.2 G GR SPORT A/T,177375000,AT,1430,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-new-agya-1-2-g-gr-sport-a-t-2023/p/SN202307-0000000009
+Toyota,RAIZE,1.2 G ONE TONE MT,183825000,AT,10364,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-raize-1-2-g-one-tone-mt-2021/p/SN202307-0000000013
+Toyota,AGYA,G (AGYA),91800000,MT,43395,2014,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-agya-g-2014/p/SN202307-0000000018
+Toyota,NEW AGYA,1.2 G GR SPORT A/T,158562500,Automatic,7032,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-new-agya-1-2-g-gr-sport-a-t-2022/p/SN202307-0000002025
+Toyota,CALYA,1.2 G LUXURY M/T,140287500,Manual,48284,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-luxury-m-t-2022/p/SN202307-0000002034
+Toyota,CALYA,1.2 G M/T,104275000,Manual,78046,2018,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2018/p/SN202307-0000002043
+Toyota,ALL NEW RUSH,1.5 S A/T GR SPORT,269825000,Automatic,5957,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-all-new-rush-1-5-s-a-t-gr-sport-2022/p/SN202307-0000002058
+Toyota,CALYA,1.2 G M/T,117175000,Manual,134384,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2020/p/SN202307-0000002062
+Toyota,CALYA,1.2 G M/T,139750000,Manual,6859,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2022/p/SN202307-0000002064
+Toyota,AVANZA,G (AVANZA),121000000,MT,112379,2014,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-g-2014/p/SN202307-000000508
+Toyota,CALYA,1.2 E M/T,129000000,Manual,7308,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-e-m-t-2021/p/SN202307-0000002080
+Toyota,CALYA,1.2 G M/T,124162500,Manual,21688,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2021/p/SN202307-0000002086
+Toyota,AGYA,1.2 G M/T NEW,116100000,Manual,39173,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-agya-1-2-g-m-t-new-2019/p/SN202307-0000002090
+Toyota,RAIZE,G (RAIZE),209000000,MT,33866,2021,Kota Balikpapan,https://www.mobbi.id/in/mobil-bekas/toyota-raize-g-2021/p/SN202306-000000569
+Toyota,AGYA,G (AGYA),139000000,AT,46519,2019,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-agya-g-2019/p/SN202307-000000535
+Toyota,CALYA,G (CALYA),124000000,MT,54067,2018,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-calya-g-2018/p/SN202307-000000537
+Toyota,AGYA,G (AGYA),92000000,MT,78379,2014,Kota Jakarta Utara,https://www.mobbi.id/in/mobil-bekas/Agya-G-2014-Bekas/p/SN201909-000000688
+Toyota,RUSH,RUSH 1.5 AT GR SPORT,249900000,AT,20794,2021,Kota Bogor,https://www.mobbi.id/in/mobil-bekas/-rush-rush-1-5-at-gr-sport-2021/p/SN202207-0000004079
+Toyota,HRV,HRV 1.8 PRESTIGE,282540000,AT,71202,2018,Kota Bogor,https://www.mobbi.id/in/mobil-bekas/toyota-hrv-hrv-1-8-prestige-2018/p/SN202210-0000000001
+Toyota,RUSH,RUSH 1.5 G MT,230520000,MT,1438,2022,Kota Bogor,https://www.mobbi.id/in/mobil-bekas/toyota-rush-rush-1-5-g-mt-2022/p/SN202210-0000000002
+Toyota,FORTUNER,FORTUNER 2.4 VRZ TRD AT DIESEL (NEW),491140000,AT,41775,2020,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/-fortuner-fortuner-2-4-vrz-trd-at-diesel-2020/p/SN202210-0000000025
+Toyota,YARIS,YARIS 1.5 S MT TRD (ALL NEW),206040000,MT,21460,2019,Kota Medan,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-yaris-1-5-s-mt-trd-2019/p/SN202210-0000006021
+Toyota,SIENTA,SIENTA 1.5 G AT BENSIN,158100000,AT,135134,2017,Kab. Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-sienta-sienta-1-5-g-at-bensin-2017/p/SN202301-0000002035
+Toyota,YARIS,YARIS 1.5 E MT (OLD),104040000,MT,149127,2010,Kab. Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-yaris-1-5-e-mt-2010/p/SN202301-0000002036
+Toyota,RUSH,RUSH 1.5 AT GR SPORT,255000000,AT,12404,2022,Kota Bogor,https://www.mobbi.id/in/mobil-bekas/toyota-rush-rush-1-5-at-gr-sport-2022/p/SN202301-0000002028
+Toyota,FORTUNER,FORTUNER 2.4 VRZ TRD AT DIESEL (NEW),510000000,AT,41306,2020,Kota Bogor,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-fortuner-2-4-vrz-trd-at-diesel-2020/p/SN202301-0000002027
+Toyota,FORTUNER,FORTUNER 2.4 AT GR SPORT (NEW),532440000,AT,17805,2021,Kota Bogor,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-fortuner-2-4-at-gr-sport-2021/p/SN202301-0000002026
+Toyota,AVANZA,VELOZ 1.5 MT (NEW),147900000,MT,130251,2015,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-veloz-1-5-mt-2015/p/SN202301-0000002019
+Toyota,AVANZA,VELOZ 1.5 MT (GRAND NEW),169320000,MT,73551,2018,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-veloz-1-5-mt-2018/p/SN202301-0000002018
+Toyota,CALYA,1.2 E STD M/T,142975000,AT,23771,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-e-std-m-t-2021/p/SN202305-0000002256
+Toyota,CALYA,1.2 E M/T,103200000,AT,110911,2018,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-e-m-t-2018/p/SN202305-0000000254
+Toyota,CALYA,1.2 G M/T,123087500,AT,55698,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2021/p/SN202305-0000000355
+Toyota,RAIZE,1.0 GR S CVT TSS TWO TONE,247250000,AT,10962,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-raize-1-0-gr-s-cvt-tss-two-tone-2022/p/SN202305-0000000368
+Toyota,AGYA,1.2 G M/T NEW,105350000,AT,61752,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-agya-1-2-g-m-t-new-2019/p/SN202305-0000000417
+Toyota,CALYA,1.2 G M/T,124162500,AT,74161,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2022/p/SN202305-0000000427
+Toyota,CALYA,1.2 G M/T,105350000,Manual,105274,2018,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2018/p/SN202306-0000002005
+Toyota,CALYA,1.2 G M/T,151575000,Manual,12503,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2022/p/SN202306-0000002023
+Toyota,AGYA,G (AGYA),140000000,AT,56494,2019,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-agya-g-2019/p/SN202306-000000111
+Toyota,CALYA,1.2 G A/T,120937500,AT,195590,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-a-t-2019/p/SN202306-0000003003
+Toyota,ALL NEW RUSH,1.5 S A/T GR SPORT,273050000,Automatic,4606,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-all-new-rush-1-5-s-a-t-gr-sport-2022/p/SN202306-0000003009
+Toyota,AGYA,1.2 G GR SPORT A/T,159637500,AT,20142,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-agya-1-2-g-gr-sport-a-t-2022/p/SN202306-0000009059
+Toyota,AGYA,1.2 G GR SPORT M/T,125775000,AT,25623,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-agya-1-2-g-gr-sport-m-t-2021/p/SN202306-0000009060
+Toyota,ALL NEW RUSH,1.5 G A/T,256387500,AT,6636,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-all-new-rush-1-5-g-a-t-2022/p/SN202306-0000009061
+Toyota,ALL NEW YARIS,1.5 S CVT GR SPORT 3 AIRBAG,291325000,AT,6058,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-all-new-yaris-1-5-s-cvt-gr-sport-3-airbag-2022/p/SN202306-0000009062
+Toyota,AGYA,G TRD (AGYA),102300000,AT,69819,2015,Kota Palembang,https://www.mobbi.id/in/mobil-bekas/toyota-agya-g-trd-2015/p/SN202306-000000412
+Toyota,RUSH,S TRD (RUSH),227000000,MT,50540,2019,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-rush-s-trd-2019/p/SN202306-000000432
+Toyota,AVANZA,VELOZ (AVANZA),170000000,AT,138697,2018,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-veloz-2018/p/SN202306-000000436
+Toyota,AGYA,G TRD (AGYA),153000000,AT,67826,2020,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/toyota-agya-g-trd-2020/p/SN202306-000000475
+Toyota,AGYA,G TRD (AGYA),119000000,MT,114405,2020,Kab. Tangerang,https://www.mobbi.id/in/mobil-bekas/toyota-agya-g-trd-2020/p/SN202307-000000120
+Toyota,INNOVA,G (INNOVA),143000000,MT,104264,2011,Kota Palembang,https://www.mobbi.id/in/mobil-bekas/toyota-innova-g-2011/p/SN202307-000000124
+Toyota,YARIS,G (YARIS),230000000,AT,17519,2021,Kota Jakarta Pusat,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-g-2021/p/SN202307-000000127
+Toyota,BALENO,BALENO HATCHBACK MT,183600000,MT,9235,2020,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/suzuki-baleno-baleno-hatchback-mt-2020/p/SN202210-0000006084
+Toyota,AVANZA,VELOZ 1.3 AT (GRAND NEW),185640000,AT,46124,2018,Kab. Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-veloz-1-3-at-2018/p/SN202210-0000006093
+Toyota,AGYA,AGYA 1.2 G MT BENSIN (ALL NEW),117300000,MT,8776,2020,Kota Bogor,https://www.mobbi.id/in/mobil-bekas/toyota-agya-agya-1-2-g-mt-bensin-2020/p/SN202210-0000006101
+Toyota,ALL NEW RUSH,1.5 S M/T GR SPORT,234350000,AT,65683,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-all-new-rush-1-5-s-m-t-gr-sport-2021/p/SN202307-0000000130
+Toyota,YARIS,S TRD 7AB (YARIS),223000000,AT,76736,2018,Kota Jakarta Timur,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-s-trd-7ab-2018/p/SN202307-000000148
+Toyota,AVANZA,G (AVANZA),105000000,MT,134983,2010,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-g-2010/p/SN202307-000000728
+Toyota,RUSH,1.5 S A/T TRD,221987500,AT,4111,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-rush-1-5-s-a-t-trd-2020/p/SN202306-0000006178
+Toyota,YARIS,S LIMITED (YARIS),128700000,AT,133422,2012,Kota Medan,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-s-limited-2012/p/SN202306-000000251
+Toyota,FORTUNER,VRZ TRD (FORTUNER),494000000,AT,54215,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-vrz-trd-2020/p/SN202306-000000254
+Toyota,CALYA,1.2 G M/T,124162500,AT,15000,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2022/p/SN202307-0000000044
+Toyota,CAMRY,CAMRY 2.5 V AT MC (ALL NEW),333815000,AT,33032,2016,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/toyota-camry-camry-2-5-v-at-mc-2016/p/SN202206-0000001201
+Toyota,FORTUNER,FORTUNER 2.4 VRZ TRD AT DIESEL (NEW),520067500,AT,39118,2020,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-fortuner-2-4-vrz-trd-at-diesel-2020/p/SN202206-0000001199
+Toyota,INNOVA,INNOVA 2.4 VENTURER AT DIESEL (REBORN),433500000,AT,66577,2019,Kota Bogor,https://www.mobbi.id/in/mobil-bekas/-innova-innova-2-4-venturer-at-diesel-2019/p/SN202207-0000004078
+Toyota,AVANZA,AVANZA 1.5 G MT,229500000,MT,6366,2022,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-avanza-1-5-g-mt-2022/p/SN202303-0000008001
+Toyota,YARIS,S TRD (YARIS),230000000,AT,46563,2019,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-s-trd-2019/p/SN202306-000000269
+Toyota,ALL NEW CITY,1.5L RSCVT HTCB,318737500,AT,16115,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/honda-all-new-city-1-5l-rscvt-htcb-2022/p/SN202306-0000008001
+Toyota,VELOZ,1.5 Q CVT TSS,270362500,AT,10388,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-veloz-1-5-q-cvt-tss-2022/p/SN202306-0000008016
+Toyota,RUSH,S (RUSH),125000000,AT,240432,2012,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-rush-s-2012/p/SN202306-000000329
+Toyota,ALL NEW AVANZA,1.3 E CVT,195650000,AT,2269,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-all-new-avanza-1-3-e-cvt-2022/p/SN202307-0000000108
+Toyota,AVANZA,G (AVANZA),158000000,AT,76160,2017,Kota Palembang,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-g-2017/p/SN202307-000000088
+Toyota,INNOVA,G (INNOVA),348000000,AT,49765,2019,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-innova-g-2019/p/SN202307-000000609
+Toyota,ALTIS,G (ALTIS),143000000,MT,132601,2014,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/toyota-altis-g-2014/p/SN202307-000000623
+Toyota,AGYA,G (AGYA),89000000,AT,118851,2013,Kota Depok,https://www.mobbi.id/in/mobil-bekas/toyota-agya-g-2013/p/SN202307-000000625
+Toyota,CALYA,1.2 G M/T,127925000,Manual,47275,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2021/p/SN202307-0000002117
+Toyota,AGYA,1.2 G GR SPORT M/T,142975000,Manual,20904,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-agya-1-2-g-gr-sport-m-t-2022/p/SN202307-0000002124
+Toyota,ALL NEW AVANZA,1.5 G CVT,243487500,Automatic,8398,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-all-new-avanza-1-5-g-cvt-2023/p/SN202307-0000002128
+Toyota,CALYA,1.2 G M/T,146737500,Manual,16859,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2022/p/SN202307-0000002129
+Toyota,VELOZ,1.5 Q CVT TSS,277350000,Automatic,29506,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-veloz-1-5-q-cvt-tss-2022/p/SN202307-0000002132
+Toyota,CALYA,1.2 G M/T,117175000,Manual,155448,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2019/p/SN202307-0000002155
+Toyota,AVANZA,G (AVANZA),168000000,MT,78715,2018,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-g-2018/p/SN202306-000000528
+Toyota,SIENTA,V (SIENTA),161000000,MT,205144,2017,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-sienta-v-2017/p/SN202306-000000527
+Toyota,CAMRY,V (CAMRY),455000000,AT,33425,2019,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/toyota-camry-v-2019/p/SN202306-000000529
+Toyota,AVANZA,1.3 E,214200000,AT,10802,2022,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-1-3-e-2022/p/SN202307-0000000134
+Toyota,SIENTA,E (SIENTA),168300000,AT,70036,2018,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-sienta-e-2018/p/SN202307-0000000135
+Toyota,INNOVA,Q VENTURER (INNOVA),325000000,AT,100005,2018,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-innova-q-venturer-2018/p/SN202307-000000199
+Toyota,RUSH,S TRD (RUSH),216000000,MT,51002,2018,Kota Jakarta Utara,https://www.mobbi.id/in/mobil-bekas/toyota-rush-s-trd-2018/p/SN202111-000000511
+Toyota,RAIZE,RAIZE 1.0T GR SPORT CVT,249900000,AT,2665,2021,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-raize-raize-1-0t-gr-sport-cvt-2021/p/SN202301-0000002056
+Toyota,RAIZE,RAIZE 1.0T GR SPORT CVT,255000000,AT,20604,2021,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-raize-raize-1-0t-gr-sport-cvt-2021/p/SN202301-0000002057
+Toyota,RUSH,S TRD (RUSH),239700000,AT,41773,2021,Kota Bogor,https://www.mobbi.id/in/mobil-bekas/toyota-rush-s-trd-2021/p/SN202307-0000000139
+Toyota,AVANZA,G (AVANZA),190740000,AT,110000,2019,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-g-2019/p/SN202307-0000000141
+Toyota,CALYA,1.2 G M/T,151575000,Manual,13234,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2023/p/SN202307-0000000144
+Toyota,RUSH,G (RUSH),205000000,AT,71567,2018,Kab. Tangerang,https://www.mobbi.id/in/mobil-bekas/toyota-rush-g-2018/p/SN202307-000000221
+Toyota,RUSH,RUSH 1.5 S MT TRD BENSIN,147900000,MT,65227,2013,Kab. Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-rush-rush-1-5-s-mt-trd-bensin-2013/p/SN202307-0000000154
+Toyota,AGYA,AGYA 1.2 G MT TRD BENSIN (NEW),117300000,MT,45290,2017,Kota Medan,https://www.mobbi.id/in/mobil-bekas/toyota-agya-agya-1-2-g-mt-trd-bensin-2017/p/SN202307-0000000155
+Toyota,AVANZA,1.5 G,222360000,AT,27223,2021,,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-1-5-g-2021/p/SN202301-0000002065
+Toyota,AVANZA,VELOZ 1.5 AT (NEW),124440000,AT,182472,2012,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-veloz-1-5-at-2012/p/SN202303-0000011009
+Toyota,FORTUNER,FORTUNER 2.5 G AT VNT DIESEL,295800000,AT,185476,2015,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-fortuner-2-5-g-at-vnt-diesel-2015/p/SN202303-0000011011
+Toyota,RAIZE,RAIZE 1.0T GR SPORT CVT TSS,239700000,AT,8012,2021,Kab. Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-raize-raize-1-0t-gr-sport-cvt-tss-2021/p/SN202303-0000011013
+Toyota,AVANZA,VELOZ 1.5 Q CVT,285600000,AT,16380,2022,Kota Bogor,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-veloz-1-5-q-cvt-2022/p/SN202303-0000011016
+Toyota,YARIS,YARIS 1.5 S AT TRD (ALL NEW),224400000,AT,28160,2019,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-yaris-yaris-1-5-s-at-trd-2019/p/SN202303-0000011026
+Toyota,ALL NEW RUSH,1.5 S A/T GR SPORT,273587500,AT,5303,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-all-new-rush-1-5-s-a-t-gr-sport-2023/p/SN202305-0000000442
+Toyota,CALYA,1.2 G M/T,138675000,Manual,35415,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2022/p/SN202306-0000003076
+Toyota,CALYA,1.2 G M/T,144050000,Manual,27466,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2022/p/SN202306-0000003077
+Toyota,VELOZ,1.5 Q CVT,262300000,AT,19326,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-veloz-1-5-q-cvt-2022/p/SN202306-0000010041
+Toyota,ALL NEW AVANZA,1.5 G CVT TSS,254775000,AT,78342,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-all-new-avanza-1-5-g-cvt-tss-2021/p/SN202306-0000010042
+Toyota,YARIS,S GR SPORT (YARIS),257000000,AT,15385,2021,Kota Jakarta Timur,https://www.mobbi.id/in/mobil-bekas/-yaris-s-gr-sport-2021/p/SN202306-000000500
+Toyota,INNOVA,G (INNOVA),299934300,MT,214728,2019,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/toyota-innova-g-2019/p/SN202307-0000000271
+Toyota,CALYA,1.2 G M/T,138675000,Manual,19825,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2022/p/SN202307-0000000275
+Toyota,FORTUNER,VRZ (FORTUNER),470000000,AT,46894,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-fortuner-vrz-2020/p/SN202307-000000298
+Toyota,AGYA,AGYA 1.2 G MT TRD BENSIN (NEW),122400000,MT,32325,2019,Kota Medan,https://www.mobbi.id/in/mobil-bekas/toyota-agya-agya-1-2-g-mt-trd-bensin-2019/p/SN202307-0000000276
+Toyota,CALYA,1.2 G M/T,130612500,Manual,48934,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2021/p/SN202307-0000000278
+Toyota,CALYA,1.2 G LUXURY M/T,142975000,Manual,39004,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-luxury-m-t-2023/p/SN202307-0000000291
+Toyota,CALYA,1.2 G M/T,140287500,Manual,22697,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2022/p/SN202307-0000000293
+Toyota,VELOZ,1.5 Q CVT TSS,274125000,Automatic,6081,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-veloz-1-5-q-cvt-tss-2022/p/SN202307-0000000294
+Toyota,CALYA,1.2 G A/T,157487500,Automatic,15000,2022,,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-a-t-2022/p/SN202307-0000000299
+Toyota,VOXY,(VOXY),351000000,AT,113739,2017,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/-voxy-2017/p/SN202307-000000306
+Toyota,AVANZA,G (AVANZA),168000000,MT,85098,2018,Kab. Tangerang,https://www.mobbi.id/in/mobil-bekas/toyota-avanza-g-2018/p/SN202307-000000314
+Toyota,CALYA,1.2 G M/T,122012500,Manual,80480,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-m-t-2020/p/SN202307-0000000304
+Toyota,RUSH,G (RUSH),129000000,AT,186441,2014,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/toyota-rush-g-2014/p/SN202307-000000335
+Daihatsu,AYLA,R (AYLA),129000000,MT,31267,2018,Kota Pekanbaru,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-2018/p/SN202306-000000167
+Daihatsu,SIGRA,R DELUXE (SIGRA),139000000,MT,30013,2020,Kota Jakarta Utara,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-r-deluxe-2020/p/SN202301-000000265
+Daihatsu,XENIA,R (XENIA),158000000,MT,60148,2018,Kota Semarang,https://www.mobbi.id/in/mobil-bekas/daihatsu-xenia-r-2018/p/SN202306-000000024
+Daihatsu,TERIOS,R DELUXE (TERIOS),217000000,AT,47298,2019,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-r-deluxe-2019/p/SN202306-000000033
+Daihatsu,TERIOS,R DELUXE (TERIOS),209000000,AT,72034,2018,Kota Jakarta Pusat,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-r-deluxe-2018/p/SN202306-000000574
+Daihatsu,AYLA,R DELUXE NEW (AYLA),133000000,MT,17391,2020,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000053
+Daihatsu,AYLA,R DELUXE NEW (AYLA),146000000,AT,6956,2020,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000055
+Daihatsu,ROCKY,R ASA 2T (ROCKY),221000000,AT,32910,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-rocky-r-asa-2t-2021/p/SN202307-000000142
+Daihatsu,AYLA,R DELUXE NEW (AYLA),134000000,MT,9697,2020,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000086
+Daihatsu,TERIOS,TX ADVENTURE (TERIOS),152000000,MT,116424,2014,Kota Palembang,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-tx-adventure-2014/p/SN202305-000000718
+Daihatsu,AYLA,R DELUXE (AYLA),127000000,MT,44619,2017,Kota Pekanbaru,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-2017/p/SN202305-000000789
+Daihatsu,TERIOS,R DELUXE (TERIOS),207000000,AT,90381,2018,Kota Jakarta Timur,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-r-deluxe-2018/p/SN202306-000000280
+Daihatsu,AYLA,R DELUXE NEW (AYLA),133000000,MT,10571,2020,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000094
+Daihatsu,AYLA,R DELUXE (AYLA),146000000,AT,37803,2020,Kota Pekanbaru,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-2020/p/SN202307-000000096
+Daihatsu,TERIOS,R (TERIOS),214000000,AT,39920,2019,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-r-2019/p/SN202306-000000526
+Daihatsu,AYLA,R DELUXE NEW (AYLA),132000000,MT,21655,2020,Kota Depok,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000174
+Daihatsu,AYLA,R (AYLA),114000000,MT,96272,2018,Kota Semarang,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-2018/p/SN202303-000000608
+Daihatsu,TERIOS,R DELUXE (TERIOS),205000000,AT,85578,2019,Kota Pekanbaru,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-r-deluxe-2019/p/SN202303-000000710
+Daihatsu,TERIOS,R DELUXE (TERIOS),211000000,MT,25834,2018,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-r-deluxe-2018/p/SN202306-000000478
+Daihatsu,TERIOS,R CUSTOM (TERIOS),170000000,AT,97326,2016,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-r-custom-2016/p/SN202306-000000161
+Daihatsu,AYLA,R DELUXE (AYLA),115000000,MT,43452,2017,Kota Semarang,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-2017/p/SN202306-000000071
+Daihatsu,AYLA,R (AYLA),125000000,MT,36244,2020,Kota Semarang,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-2020/p/SN202303-000000234
+Daihatsu,TERIOS,R (TERIOS),156000000,AT,116580,2015,Kota Depok,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-r-2015/p/SN202306-000000539
+Daihatsu,AYLA,R (AYLA),142000000,MT,27487,2020,Kota Pekanbaru,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-2020/p/SN202305-000000364
+Daihatsu,AYLA,X (AYLA),102000000,MT,145625,2019,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-x-2019/p/SN202307-000000140
+Daihatsu,LUXIO,D (LUXIO),90000000,MT,115278,2015,Kota Palembang,https://www.mobbi.id/in/mobil-bekas/daihatsu-luxio-d-2015/p/SN202306-000000566
+Daihatsu,XENIA,R (XENIA),152000000,AT,125002,2018,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-xenia-r-2018/p/SN202306-000000311
+Daihatsu,TERIOS,X DELUXE (TERIOS),174000000,AT,87863,2018,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-x-deluxe-2018/p/SN202306-000000315
+Daihatsu,AYLA,R DELUXE (AYLA),129000000,MT,16034,2020,Kota Palembang,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-2020/p/SN202307-000000190
+Daihatsu,AYLA,R (AYLA),135000000,MT,12481,2019,Kota Balikpapan,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-2019/p/SN202307-000000227
+Daihatsu,ALL NEW XENIA,1.3 R M/T,191887500,AT,5558,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-all-new-xenia-1-3-r-m-t-2021/p/SN202305-0000000231
+Daihatsu,ROCKY,1.2 M CVT,183825000,AT,8413,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-rocky-1-2-m-cvt-2022/p/SN202305-0000000238
+Daihatsu,ALL NEW XENIA,1.3 X CVT,202637500,AT,8940,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-all-new-xenia-1-3-x-cvt-2022/p/SN202306-0000003031
+Daihatsu,AYLA,1.0 D+ M/T NEW,86537500,Manual,38479,2018,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-1-0-d%2B-m-t-new-2018/p/SN202306-0000003049
+Daihatsu,NEW AYLA,1.0 X MT MC,110187500,AT,13543,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-x-mt-mc-2022/p/SN202306-0000003054
+Daihatsu,SIGRA,1.0 D M/T MC,120400000,AT,15182,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202306-0000003055
+Daihatsu,GRANMAX,1.5 M/T,130612500,AT,13131,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-1-5-m-t-2022/p/SN202306-0000003056
+Daihatsu,SIGRA,1.0 D M/T,119325000,AT,15793,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-2022/p/SN202306-0000003060
+Daihatsu,NEW AYLA,1.0 D+ MT MC,109650000,Manual,7269,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2022/p/SN202306-0000003062
+Daihatsu,NEW AYLA,1.0 D+ MT MC,106962500,AT,8231,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2022/p/SN202306-0000003064
+Daihatsu,AYLA,1.0 M M/T,88580000,AT,43928,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-1-0-m-m-t-2019/p/SN202304-0000000014
+Daihatsu,SIGRA,1.2 R M/T MC,115025000,Manual,83153,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-m-t-mc-2021/p/SN202305-0000000074
+Daihatsu,ROCKY,1.2 X M/T,162325000,Manual,33801,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-rocky-1-2-x-m-t-2021/p/SN202305-0000000511
+Daihatsu,NEW AYLA,1.0 D+ MT MC,99437500,AT,27438,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2021/p/SN202305-0000000521
+Daihatsu,ROCKY,1.2 M CVT,170925000,AT,19504,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-rocky-1-2-m-cvt-2021/p/SN202305-0000000552
+Daihatsu,SIGRA,1.0 D M/T MC,109112500,Manual,35350,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202306-0000004007
+Daihatsu,SIGRA,1.0 D M/T MC,104275000,AT,23942,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202306-0000004023
+Daihatsu,NEW AYLA,1.0 D+ MT MC,97825000,Manual,25533,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2022/p/SN202306-0000004024
+Daihatsu,SIGRA,1.0 M M/T MC,112337500,Manual,19531,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2022/p/SN202306-0000004025
+Daihatsu,GRANMAX,PU 1.5 M/T,119325000,AT,46160,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2021/p/SN202306-0000004041
+Daihatsu,SIGRA,1.0 D M/T MC,121475000,AT,6943,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202306-0000010079
+Daihatsu,NEW AYLA,1.0 D+ MT MC,96212500,AT,30309,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2022/p/SN202306-0000010081
+Daihatsu,SIGRA,1.0 D M/T,98362500,AT,40248,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-2020/p/SN202306-0000010082
+Daihatsu,GRAN MAX,D (GRAN MAX),133000000,MT,36514,2019,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/daihatsu-gran-max-d-2019/p/SN202307-000000408
+Daihatsu,SIGRA,R (SIGRA),133000000,AT,34023,2019,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-r-2019/p/SN202307-000000423
+Daihatsu,AYLA,R DELUXE (AYLA),135000000,AT,33442,2019,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-2019/p/SN202307-000000444
+Daihatsu,SIGRA,1.2 R M/T MC,120937500,Manual,50723,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-m-t-mc-2021/p/SN202307-0000001002
+Daihatsu,ALL NEW TERIOS,X M/T IDS,203712500,Manual,54434,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-all-new-terios-x-m-t-ids-2022/p/SN202307-0000001006
+Daihatsu,ALL NEW TERIOS,R A/T DELUXE,214462500,Automatic,17908,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-all-new-terios-r-a-t-deluxe-2022/p/SN202307-0000001012
+Daihatsu,NEW AYLA,1.0 X MT MC,111800000,Manual,66940,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-x-mt-mc-2021/p/SN202307-0000001015
+Daihatsu,GRANMAX,PU 1.5 M/T,133837500,Manual,1606,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2023/p/SN202307-0000001020
+Daihatsu,GRANMAX,PU 1.5 M/T,116100000,Manual,40445,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2021/p/SN202307-0000002002
+Daihatsu,SIGRA,1.0 M M/T MC,131150000,Manual,48638,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2022/p/SN202307-0000002004
+Daihatsu,SIGRA,1.0 D M/T MC,125237500,Manual,29949,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202307-0000002005
+Daihatsu,NEW AYLA,1.2 R MT DLX MC,133837500,Manual,24503,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-2-r-mt-dlx-mc-2021/p/SN202307-0000002007
+Daihatsu,SIGRA,1.0 D M/T MC,113950000,Manual,47013,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202307-0000002009
+Daihatsu,NEW AYLA,1.0 X MT MC,116100000,Manual,5332,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-x-mt-mc-2023/p/SN202307-0000002008
+Daihatsu,GRANMAX,PU 1.5 M/T,134375000,Manual,4555,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2023/p/SN202307-0000002010
+Daihatsu,SIGRA,1.0 M M/T MC,112337500,Manual,31014,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2021/p/SN202307-0000002011
+Daihatsu,SIGRA,1.0 D M/T,124162500,Manual,19850,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-2022/p/SN202307-0000002014
+Daihatsu,NEW AYLA,1.0 D+ MT MC,99975000,Manual,13077,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2022/p/SN202307-0000002016
+Daihatsu,GRANMAX,PU 1.5 M/T,126850000,Manual,22927,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000002021
+Daihatsu,TERIOS,TERIOS 1.5 TX A/T,158100000,AT,84893,2015,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-terios-1-5-tx-a-t-2015/p/SN202305-0000002171
+Daihatsu,SIGRA,1.0 M M/T MC,111262500,AT,32764,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2021/p/SN202305-0000000216
+Daihatsu,NEW AYLA,1.2 R MT MC,134912500,AT,10742,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-2-r-mt-mc-2022/p/SN202305-0000000673
+Daihatsu,ROCKY,1.0 R TC CVT ASA,215000000,AT,37926,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-rocky-1-0-r-tc-cvt-asa-2021/p/SN202305-0000000689
+Daihatsu,NEW AYLA,1.2 R AT MC,138675000,AT,13982,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-2-r-at-mc-2022/p/SN202305-0000000710
+Daihatsu,ALL NEW XENIA,R M/T,203712500,Manual,14470,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-all-new-xenia-r-m-t-2022/p/SN202305-0000000717
+Daihatsu,NEW AYLA,1.0 D+ MT MC,111800000,Manual,1909,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2023/p/SN202306-0000001004
+Daihatsu,NEW AYLA,1.0 D+ MT MC,87612500,Manual,33535,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2021/p/SN202306-0000001005
+Daihatsu,SIGRA,1.0 M M/T MC,115562500,AT,55504,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2022/p/SN202306-0000009002
+Daihatsu,SIGRA,1.2 R M/T MC,115025000,Manual,86575,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-m-t-mc-2021/p/SN202306-0000009012
+Daihatsu,NEW AYLA,1.0 D+ MT MC,102662500,AT,28208,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2021/p/SN202306-0000009019
+Daihatsu,SIGRA,1.0 D M/T MC,119862500,AT,14196,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202306-0000009020
+Daihatsu,NEW AYLA,1.0 X MT MC,123087500,AT,18651,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-x-mt-mc-2022/p/SN202306-0000009022
+Daihatsu,SIGRA,1.0 D M/T MC,121475000,AT,11933,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202306-0000009024
+Daihatsu,GRANMAX,PU 1.5 M/T,162862500,Manual,5672,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2023/p/SN202306-0000009025
+Daihatsu,GRANMAX,PU 1.5 M/T,127925000,AT,17771,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202306-0000009027
+Daihatsu,NEW AYLA,1.0 D+ MT MC,108575000,AT,10893,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2022/p/SN202306-0000009029
+Daihatsu,NEW AYLA,1.0 X MT MC,109112500,Manual,18116,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-x-mt-mc-2022/p/SN202306-0000009030
+Daihatsu,SIGRA,1.0 D M/T MC,117175000,AT,26918,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202306-0000009036
+Daihatsu,NEW AYLA,1.2 R MT DLX MC,118787500,AT,63330,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-2-r-mt-dlx-mc-2020/p/SN202306-0000009042
+Daihatsu,XENIA,R (XENIA),149000000,AT,78821,2016,Kota Jakarta Timur,https://www.mobbi.id/in/mobil-bekas/daihatsu-xenia-r-2016/p/SN202306-000000378
+Daihatsu,ROCKY,1.2 X M/T,186512500,AT,5676,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-rocky-1-2-x-m-t-2022/p/SN202306-0000009052
+Daihatsu,AYLA,R DELUXE NEW (AYLA),146300000,AT,37406,2020,Kota Semarang,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000252
+Daihatsu,NEW AYLA,1.0 D+ MT MC,95675000,Manual,20834,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2021/p/SN202307-0000000158
+Daihatsu,SIGRA,1.2 R M/T,109112500,Manual,97485,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-m-t-2019/p/SN202307-0000000162
+Daihatsu,SIGRA,1.0 M M/T MC,123625000,AT,13483,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2022/p/SN202307-0000000164
+Daihatsu,NEW AYLA,1.0 D+ MT MC,96212500,AT,37747,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2021/p/SN202307-0000000165
+Daihatsu,SIGRA,1.2 X M/T MC,119862500,AT,47302,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-x-m-t-mc-2022/p/SN202307-0000000166
+Daihatsu,NEW AYLA,1.0 M MT E4,86537500,AT,125374,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-m-mt-e4-2019/p/SN202307-0000000173
+Daihatsu,SIGRA,1.0 M M/T MC,95675000,AT,19763,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2021/p/SN202307-0000000174
+Daihatsu,SIGRA,1.0 D M/T MC,126850000,AT,13351,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202307-0000000176
+Daihatsu,CALYA,1.2 E STD M/T,124162500,AT,21544,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-e-std-m-t-2021/p/SN202307-0000000178
+Daihatsu,SIGRA,1.0 D M/T MC,94600000,AT,54493,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2021/p/SN202307-0000000180
+Daihatsu,SIGRA,1.0 M M/T MC,116637500,AT,32073,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2021/p/SN202307-0000000181
+Daihatsu,ROCKY,1.2 X CVT,202637500,AT,9372,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-rocky-1-2-x-cvt-2022/p/SN202307-0000000182
+Daihatsu,GRANMAX,1.5 M/T,117175000,AT,30008,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-1-5-m-t-2022/p/SN202307-0000000184
+Daihatsu,GRANMAX,PU 1.5 M/T,119325000,AT,21426,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2021/p/SN202307-0000000186
+Daihatsu,SIGRA,1.0 D M/T MC,113950000,AT,22807,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202307-0000000188
+Daihatsu,SIGRA,1.0 D M/T MC,113412500,AT,50095,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2021/p/SN202307-0000000189
+Daihatsu,NEW AYLA,1.0 X MT MC,102662500,AT,29818,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-x-mt-mc-2021/p/SN202307-0000000191
+Daihatsu,SIGRA,1.0 D M/T MC,105887500,AT,52805,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202307-0000000190
+Daihatsu,SIGRA,1.2 R M/T MC,131150000,AT,66850,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-m-t-mc-2022/p/SN202307-0000000193
+Daihatsu,ALL NEW XENIA,X M/T,213387500,Manual,9218,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-all-new-xenia-x-m-t-2022/p/SN202307-0000000198
+Daihatsu,GRANMAX,PU 1.3 M/T,99975000,AT,22273,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-3-m-t-2022/p/SN202307-0000000199
+Daihatsu,SIGRA,1.0 D M/T MC,126312500,AT,22796,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202307-0000000203
+Daihatsu,SIGRA,1.0 D M/T,94600000,AT,107075,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-2019/p/SN202307-0000000205
+Daihatsu,SIGRA,1.2 X M/T DELUXE,97287500,AT,96725,2018,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-x-m-t-deluxe-2018/p/SN202307-0000000206
+Daihatsu,SIGRA,1.2 R M/T,97825000,AT,90390,2018,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-m-t-2018/p/SN202307-0000000214
+Daihatsu,GRANMAX,PU 1.5 M/T,119862500,AT,26638,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000215
+Daihatsu,SIGRA,1.0 M M/T MC,116100000,AT,15000,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2022/p/SN202307-0000000217
+Daihatsu,GRANMAX,PU 1.5 M/T,124700000,AT,33338,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000218
+Daihatsu,GRANMAX,PU 1.5 M/T,119862500,AT,22253,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000220
+Daihatsu,SIGRA,1.0 D M/T,123087500,AT,5115,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-2023/p/SN202307-0000000221
+Daihatsu,NEW AYLA,1.2 R MT MC,147275000,Manual,6215,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-2-r-mt-mc-2023/p/SN202307-0000000231
+Daihatsu,GRANMAX,PU 1.5 M/T,118787500,AT,36115,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2021/p/SN202307-0000000234
+Daihatsu,GRANMAX,PU 1.5 M/T,115562500,AT,30000,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2021/p/SN202307-0000000235
+Daihatsu,GRANMAX,1.5 M/T,118250000,AT,30000,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-1-5-m-t-2021/p/SN202307-0000000236
+Daihatsu,SIGRA,1.0 M M/T,110187500,AT,46057,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-2021/p/SN202307-0000000241
+Daihatsu,SIRION,SIRION 1.3 D FMC M/T (NEW),83640000,MT,133029,2013,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/daihatsu-sirion-sirion-1-3-d-fmc-m-t-2013/p/SN202207-0000002077
+Daihatsu,SIGRA,1.2 R M/T MC,137062500,AT,31172,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-m-t-mc-2021/p/SN202305-0000000140
+Daihatsu,SIGRA,1.2 R A/T MC,131150000,AT,38078,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-a-t-mc-2020/p/SN202306-0000006040
+Daihatsu,AYLA,1.0 X M/T NEW,94600000,AT,60000,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-1-0-x-m-t-new-2019/p/SN202306-0000006127
+Daihatsu,NEW AYLA,1.0 D+ MT MC,107500000,AT,22679,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2022/p/SN202306-0000010089
+Daihatsu,NEW AYLA,1.0 X MT MC,109112500,AT,1602,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-x-mt-mc-2022/p/SN202306-0000010094
+Daihatsu,SIGRA,1.0 D M/T MC,112875000,AT,10131,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202306-0000010095
+Daihatsu,SIGRA,1.2 R M/T MC,139212500,AT,14366,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-m-t-mc-2022/p/SN202306-0000010096
+Daihatsu,SIGRA,1.0 D M/T MC,116100000,AT,27402,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202306-0000010097
+Daihatsu,NEW AYLA,1.0 D+ MT MC,99975000,AT,7682,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2022/p/SN202306-0000010103
+Daihatsu,NEW AYLA,1.2 R MT MC,132225000,AT,26537,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-2-r-mt-mc-2022/p/SN202306-0000010109
+Daihatsu,SIGRA,1.0 M M/T MC,120400000,AT,9440,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2022/p/SN202306-0000010117
+Daihatsu,SIGRA,1.2 R M/T E4,113412500,AT,39205,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-m-t-e4-2019/p/SN202306-0000010118
+Daihatsu,NEW AYLA,1.2 R MT MC,134912500,AT,2521,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-2-r-mt-mc-2022/p/SN202306-0000010120
+Daihatsu,ALL NEW TERIOS,X A/T DELUXE IDS,189737500,AT,37305,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-all-new-terios-x-a-t-deluxe-ids-2021/p/SN202307-0000010128
+Daihatsu,SIGRA,1.2 R M/T,106962500,AT,79252,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-m-t-2021/p/SN202307-0000010139
+Daihatsu,GRANMAX,PU 1.5 M/T,118787500,AT,54856,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000244
+Daihatsu,GRANMAX,PU 1.5 M/T,121475000,AT,95706,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000245
+Daihatsu,GRANMAX,PU 1.5 M/T,123087500,Manual,11276,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000251
+Daihatsu,GRANMAX,PU 1.5 M/T,127387500,Manual,4237,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2023/p/SN202307-0000000252
+Daihatsu,SIGRA,1.0 D M/T MC,96212500,AT,89397,2021,,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2021/p/SN202307-0000000001
+Daihatsu,NEW AYLA,1.2 R AT MC,137062500,Automatic,19115,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-2-r-at-mc-2021/p/SN202307-0000000002
+Daihatsu,ALL NEW XENIA,1.3 R A/T,192425000,AT,16544,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-all-new-xenia-1-3-r-a-t-2021/p/SN202307-0000000010
+Daihatsu,SIGRA,1.2 R M/T DELUXE MC,118787500,Manual,45000,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-m-t-deluxe-mc-2020/p/SN202307-0000000012
+Daihatsu,NEW AYLA,1.2 R AT DLX MC,148887500,AT,15873,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-2-r-at-dlx-mc-2022/p/SN202307-0000000022
+Daihatsu,AYLA,R DELUXE NEW (AYLA),142000000,AT,37326,2020,Kab. Tangerang,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000049
+Daihatsu,AYLA,R DELUXE NEW (AYLA),146000000,AT,18729,2020,Kab. Tangerang,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000057
+Daihatsu,SIGRA,R (SIGRA),124000000,MT,49151,2019,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-r-2019/p/SN202307-000000060
+Daihatsu,GRANMAX,PU 1.5 M/T,116100000,Manual,47033,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000002026
+Daihatsu,GRANMAX,PU 1.5 M/T,130612500,Manual,979,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000002027
+Daihatsu,GRANMAX,PU 1.5 M/T,131687500,Manual,2568,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000002028
+Daihatsu,GRANMAX,PU 1.5 M/T,119325000,Manual,44720,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000002032
+Daihatsu,SIGRA,1.0 D M/T MC,125237500,Manual,10006,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202307-0000002035
+Daihatsu,AYLA,1.0 X M/T NEW,113950000,Manual,23561,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-1-0-x-m-t-new-2021/p/SN202307-0000002036
+Daihatsu,NEW AYLA,1.0 D+ MT MC,115025000,Manual,27921,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2022/p/SN202307-0000002038
+Daihatsu,GRANMAX,PU 1.5 M/T,122012500,Manual,13660,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000002040
+Daihatsu,NEW AYLA,1.2. X MT MC,104275000,Manual,59539,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-2-x-mt-mc-2022/p/SN202307-0000002044
+Daihatsu,GRANMAX,PU 1.5 M/T,118250000,Manual,59738,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000002045
+Daihatsu,GRANMAX,PU 1.5 M/T,118250000,Manual,14673,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000002046
+Daihatsu,GRANMAX,PU 1.5 M/T,130075000,Manual,35869,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000002055
+Daihatsu,NEW AYLA,1.0 D+ MT MC,121475000,Manual,4667,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2023/p/SN202307-0000002057
+Daihatsu,SIGRA,1.0 M M/T MC,126850000,Manual,35171,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2022/p/SN202307-0000002059
+Daihatsu,SIGRA,1.0 M M/T MC,119325000,Manual,16395,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2022/p/SN202307-0000002060
+Daihatsu,SIGRA,1.2 R M/T MC,147812500,Manual,15349,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-m-t-mc-2022/p/SN202307-0000002065
+Daihatsu,NEW AYLA,1.0 D+ MT MC,109112500,Manual,19664,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2022/p/SN202307-0000002068
+Daihatsu,NEW AYLA,1.2 R MT MC,131150000,Manual,65985,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-2-r-mt-mc-2021/p/SN202307-0000002070
+Daihatsu,SIGRA,1.0 M M/T MC,130075000,Manual,25982,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2022/p/SN202307-0000002075
+Daihatsu,NEW AYLA,1.0 X MT DLX MC,106425000,Manual,47405,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-x-mt-dlx-mc-2021/p/SN202307-0000002078
+Daihatsu,SIGRA,1.0 M M/T MC,108037500,Manual,23655,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2021/p/SN202307-0000002084
+Daihatsu,AYLA,X (AYLA),86000000,MT,79674,2014,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-x-2014/p/SN202307-000000520
+Daihatsu,SIGRA,1.0 D M/T MC,111800000,Manual,38206,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202307-0000002087
+Daihatsu,SIGRA,1.0 D M/T MC,101587500,Manual,30292,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2021/p/SN202307-0000002089
+Daihatsu,SIGRA,1.2 X M/T MC,138137500,Manual,35565,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-x-m-t-mc-2022/p/SN202307-0000002088
+Daihatsu,SIGRA,1.0 D M/T MC,118250000,Manual,21656,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2021/p/SN202307-0000002091
+Daihatsu,GRANMAX,PU 1.5 M/T,119325000,Manual,21826,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000002102
+Daihatsu,GRANMAX,PU 1.5 M/T,120400000,Manual,29704,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2021/p/SN202307-0000002101
+Daihatsu,GRANMAX,PU 1.5 M/T,116100000,Manual,72929,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000002103
+Daihatsu,GRANMAX,PU 1.5 M/T,115562500,Manual,12743,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000002104
+Daihatsu,SIGRA,1.2 R M/T MC,144050000,Manual,13815,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-m-t-mc-2022/p/SN202307-0000002105
+Daihatsu,GRANMAX,PU 1.5 M/T,123087500,Manual,28128,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000002106
+Daihatsu,NEW AYLA,1.2 R MT MC,146737500,Manual,25147,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-2-r-mt-mc-2022/p/SN202307-0000002107
+Daihatsu,GRANMAX,PU 1.5 M/T,120400000,Manual,14309,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000002110
+Daihatsu,TERIOS,TX (TERIOS),115000000,MT,187453,2012,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-tx-2012/p/SN202307-000000536
+Daihatsu,SIGRA,1.0 D M/T,98362500,AT,69983,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-2021/p/SN202305-0000000259
+Daihatsu,NEW AYLA,1.0 X M/T,114487500,AT,2533,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-x-m-t-2022/p/SN202305-0000000272
+Daihatsu,AYLA,1.0 X M/T NEW,95137500,AT,188431,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-1-0-x-m-t-new-2019/p/SN202305-0000000419
+Daihatsu,NEW AYLA,1.0 X AT MC,131042500,AT,7462,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-x-at-mc-2022/p/SN202306-0000002010
+Daihatsu,SIGRA,1.2 R M/T,97825000,AT,147701,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-m-t-2019/p/SN202306-0000002012
+Daihatsu,NEW AYLA,1.2 R MT MC,120400000,AT,23116,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-2-r-mt-mc-2020/p/SN202306-0000002014
+Daihatsu,SIGRA,1.0 D M/T MC,128462500,AT,41887,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202306-0000002021
+Daihatsu,SIGRA,1.0 D M/T MC,116100000,Manual,41887,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202306-0000002022
+Daihatsu,SIGRA,1.0 D M/T MC,117175000,Manual,19726,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202306-0000002043
+Daihatsu,XENIA,R SPORTY (XENIA),177000000,AT,52278,2018,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-xenia-r-sporty-2018/p/SN202306-000000099
+Daihatsu,NEW AYLA,1.2 X AT MC,136525000,AT,5127,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-2-x-at-mc-2023/p/SN202306-0000009058
+Daihatsu,SIGRA,1.2 X A/T MC,121475000,AT,26278,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-x-a-t-mc-2021/p/SN202306-0000009063
+Daihatsu,SIGRA,1.2 R M/T MC,127387500,Manual,69908,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-m-t-mc-2021/p/SN202306-0000009069
+Daihatsu,SIGRA,1.0 D M/T,89762500,AT,79997,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-2020/p/SN202306-0000010006
+Daihatsu,NEW AYLA,1.0 D+ MT MC,108575000,AT,13150,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2022/p/SN202306-0000010020
+Daihatsu,SIGRA,1.0 M M/T MC,114487500,AT,59902,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2022/p/SN202306-0000010021
+Daihatsu,SIGRA,1.0 M M/T MC,120400000,AT,37073,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2022/p/SN202306-0000010022
+Daihatsu,ROCKY,1.2 M CVT,189737500,AT,5375,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-rocky-1-2-m-cvt-2022/p/SN202306-0000010024
+Daihatsu,AYLA,R DELUXE NEW (AYLA),143000000,AT,44208,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000107
+Daihatsu,AYLA,R DELUXE NEW (AYLA),145000000,AT,22438,2020,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000108
+Daihatsu,AYLA,R DELUXE (AYLA),147000000,AT,33004,2020,Kota Medan,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-2020/p/SN202307-000000110
+Daihatsu,AYLA,R DELUXE NEW (AYLA),137000000,MT,17160,2020,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000114
+Daihatsu,AYLA,R DELUXE NEW (AYLA),153000000,AT,25221,2020,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000117
+Daihatsu,AYLA,R DELUXE NEW (AYLA),138000000,MT,7046,2020,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000118
+Daihatsu,AYLA,R DELUXE NEW (AYLA),153000000,AT,48409,2020,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000119
+Daihatsu,AYLA,R DELUXE NEW (AYLA),153000000,AT,19234,2020,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000125
+Daihatsu,TERIOS,TX (TERIOS),145000000,MT,54596,2013,Kota Jakarta Utara,https://www.mobbi.id/in/mobil-bekas/Daihatsu-TERIOS-TX-Bekas-2013/p/SN202004-000000009
+Daihatsu,SIGRA,1.2 X M/T,122012500,AT,4513,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-x-m-t-2022/p/SN202304-0000002122
+Daihatsu,GRAN MAX,PU (GRAN MAX),88000000,MT,45062,2018,Makassar,https://www.mobbi.id/in/mobil-bekas/daihatsu-gran-max-pu-2018/p/SN202305-000000423
+Daihatsu,SIGRA,1.2 X M/T MC,108037500,Manual,66884,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-x-m-t-mc-2020/p/SN202305-0000000196
+Daihatsu,SIGRA,1.2 R M/T MC,131150000,AT,39731,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-m-t-mc-2022/p/SN202305-0000000201
+Daihatsu,GRANMAX,PU 1.5 M/T,121475000,AT,49734,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202305-0000000204
+Daihatsu,XENIA,R SPORTY (XENIA),157000000,AT,142870,2018,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-xenia-r-sporty-2018/p/SN202307-000000151
+Daihatsu,AYLA,R DELUXE NEW (AYLA),144000000,AT,23629,2020,Kota Jakarta Pusat,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000154
+Daihatsu,AYLA,R DELUXE NEW (AYLA),144000000,AT,37663,2020,Kota Jakarta Pusat,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000156
+Daihatsu,SIGRA,1.0 M M/T,107500000,Manual,76432,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-2020/p/SN202306-0000006135
+Daihatsu,NEW AYLA,1.2 R MT MC,113950000,AT,33209,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-2-r-mt-mc-2020/p/SN202306-0000006150
+Daihatsu,GRANMAX,PU 1.5 M/T,162862500,AT,5672,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2023/p/SN202306-0000006166
+Daihatsu,AGYA,G (AGYA),128000000,MT,36275,2019,Kab. Tangerang,https://www.mobbi.id/in/mobil-bekas/toyota-agya-g-2019/p/SN202307-000000064
+Daihatsu,AYLA,1.0 D+ M/T,95675000,AT,41264,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-1-0-d%2B-m-t-2020/p/SN202307-0000000034
+Daihatsu,AYLA,1.0 X M/T NEW,89225000,AT,31795,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-1-0-x-m-t-new-2021/p/SN202307-0000000037
+Daihatsu,SIGRA,1.0 D M/T MC,108037500,AT,45182,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202307-0000000045
+Daihatsu,NEW AYLA,1.0 X M/T,97825000,AT,97688,2018,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-x-m-t-2018/p/SN202307-0000000048
+Daihatsu,NEW AYLA,1.2 R MT MC,131150000,Manual,4642,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-2-r-mt-mc-2022/p/SN202307-0000000053
+Daihatsu,ALL NEW AVANZA,1.5 G CVT TSS,224675000,AT,35273,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-all-new-avanza-1-5-g-cvt-tss-2022/p/SN202307-0000000065
+Daihatsu,SIGRA,1.2 R M/T MC,148887500,AT,10941,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-m-t-mc-2022/p/SN202307-0000000066
+Daihatsu,AYLA,R DELUXE NEW (AYLA),137000000,MT,9034,2020,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000080
+Daihatsu,GRANMAX,PU 1.5 M/T,125237500,AT,9520,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000067
+Daihatsu,GRANMAX,PU 1.5 M/T,113950000,AT,84967,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2021/p/SN202307-0000000068
+Daihatsu,ROCKY,1.2 X CVT ADS,204787500,AT,10777,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-rocky-1-2-x-cvt-ads-2022/p/SN202307-0000000069
+Daihatsu,GRANMAX,PU 1.5 M/T,138675000,AT,6481,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2023/p/SN202307-0000000070
+Daihatsu,VELOZ,1.5 Q CVT,264450000,AT,17994,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-veloz-1-5-q-cvt-2022/p/SN202307-0000000073
+Daihatsu,GRANMAX,1.5 M/T,127387500,AT,13621,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-1-5-m-t-2022/p/SN202307-0000000075
+Daihatsu,ALL NEW RUSH,1.5 S A/T GR SPORT,269825000,AT,9608,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-all-new-rush-1-5-s-a-t-gr-sport-2022/p/SN202307-0000000076
+Daihatsu,GRANMAX,PU 1.5 M/T,122012500,AT,27016,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2021/p/SN202307-0000000077
+Daihatsu,GRANMAX,PU 1.5 M/T,125237500,Manual,16976,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000079
+Daihatsu,GRANMAX,PU 1.5 M/T,123625000,AT,75980,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000080
+Daihatsu,GRANMAX,PU 1.5 M/T,125775000,Manual,8308,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000081
+Daihatsu,GRANMAX,PU 1.5 M/T,134912500,AT,9976,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2023/p/SN202307-0000000083
+Daihatsu,GRANMAX,PU 1.5 M/T,126312500,AT,25095,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000086
+Daihatsu,AYLA,R DELUXE NEW (AYLA),145000000,AT,26112,2020,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000084
+Daihatsu,GRANMAX,PU 1.5 M/T,124162500,AT,9620,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000088
+Daihatsu,GRANMAX,PU 1.5 M/T,127387500,AT,8718,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000089
+Daihatsu,GRANMAX,PU 1.5 M/T,124700000,AT,9717,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000090
+Daihatsu,GRANMAX,PU 1.5 M/T,126850000,Manual,18426,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000093
+Daihatsu,GRANMAX,PU 1.5 M/T,125775000,Manual,18257,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000095
+Daihatsu,GRANMAX,PU 1.5 M/T,122012500,AT,15000,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000097
+Daihatsu,GRANMAX,PU 1.5 M/T,125775000,AT,13920,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000098
+Daihatsu,GRANMAX,PU 1.5 M/T,126850000,AT,16654,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000099
+Daihatsu,GRANMAX,1.5 M/T,119862500,AT,56295,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-1-5-m-t-2022/p/SN202307-0000000102
+Daihatsu,GRANMAX,PU 1.5 M/T,122550000,AT,33040,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000103
+Daihatsu,GRANMAX,PU 1.5 M/T,123087500,AT,24372,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000104
+Daihatsu,GRANMAX,PU 1.3 M/T,99437500,AT,10093,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-3-m-t-2022/p/SN202307-0000000109
+Daihatsu,TERIOS,TERIOS 1.5 X DELUXE MT,183600000,MT,42626,2019,Kota Bogor,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-terios-1-5-x-deluxe-mt-2019/p/SN202211-0000003003
+Daihatsu,SIGRA,1.0 D M/T MC,109112500,Manual,19646,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2021/p/SN202305-0000000631
+Daihatsu,ALL NEW XENIA,1.3 X M/T,195650000,AT,13817,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-all-new-xenia-1-3-x-m-t-2022/p/SN202305-0000000653
+Daihatsu,TERIOS,R DELUXE (TERIOS),215000000,AT,80785,2018,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-r-deluxe-2018/p/SN202305-000000701
+Daihatsu,GRANMAX,PU 1.5 M/T,122012500,AT,20251,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000113
+Daihatsu,GRANMAX,PU 1.3 M/T,111800000,Manual,12451,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-3-m-t-2023/p/SN202307-0000002119
+Daihatsu,SIGRA,1.0 M M/T MC,128462500,Manual,10203,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2022/p/SN202307-0000002121
+Daihatsu,NEW AYLA,1.0 X MT MC,111800000,Manual,38431,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-x-mt-mc-2021/p/SN202307-0000002127
+Daihatsu,SIGRA,1.2 R M/T MC,145662500,Manual,26299,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-m-t-mc-2022/p/SN202307-0000002130
+Daihatsu,NEW AYLA,1.0 D+ MT MC,105350000,Manual,28436,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2022/p/SN202307-0000002134
+Daihatsu,SIGRA,1.0 D M/T MC,131150000,Manual,6392,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2023/p/SN202307-0000002136
+Daihatsu,SIGRA,1.0 D M/T MC,117712500,Manual,45691,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202307-0000002139
+Daihatsu,SIGRA,1.0 M M/T MC,115025000,Manual,24967,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2021/p/SN202307-0000002140
+Daihatsu,SIGRA,1.0 D M/T MC,114487500,Manual,25986,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202307-0000002141
+Daihatsu,NEW AYLA,1.0 X MT MC,104812500,Manual,63828,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-x-mt-mc-2022/p/SN202307-0000002143
+Daihatsu,SIGRA,1.0 D M/T MC,120937500,Manual,5291,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202307-0000002147
+Daihatsu,SIGRA,1.0 D M/T MC,112875000,Manual,26181,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2021/p/SN202307-0000002149
+Daihatsu,SIGRA,1.0 D M/T MC,117175000,Manual,15763,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202307-0000002150
+Daihatsu,SIGRA,1.0 M M/T MC,112337500,Manual,69568,2020,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2020/p/SN202307-0000002151
+Daihatsu,SIGRA,1.0 M M/T MC,115025000,Manual,30094,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2021/p/SN202307-0000002157
+Daihatsu,SIGRA,1.0 M M/T MC,115562500,Manual,30000,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2021/p/SN202307-0000002158
+Daihatsu,SIGRA,1.2 R M/T MC,135450000,AT,23062,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-m-t-mc-2022/p/SN202306-0000010054
+Daihatsu,AYLA,R DELUXE NEW (AYLA),132000000,MT,17296,2020,Kota Depok,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000157
+Daihatsu,AYLA,R DELUXE NEW (AYLA),132000000,MT,12071,2020,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000161
+Daihatsu,AYLA,R DELUXE NEW (AYLA),146000000,AT,14680,2020,Kota Jakarta Timur,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000163
+Daihatsu,AYLA,R DELUXE NEW (AYLA),145000000,AT,7315,2020,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000164
+Daihatsu,AYLA,R DELUXE NEW (AYLA),143000000,AT,33343,2020,Kota Depok,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000173
+Daihatsu,AYLA,R DELUXE NEW (AYLA),141000000,AT,41353,2020,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000181
+Daihatsu,AYLA,R DELUXE NEW (AYLA),145000000,AT,13196,2020,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000193
+Daihatsu,TERIOS,R ADVENTURE (TERIOS),174000000,AT,122921,2016,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-r-adventure-2016/p/SN202307-000000197
+Daihatsu,TERIOS,TERIOS 1.5 X MT,191760000,MT,92716,2019,Kota Medan,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-terios-1-5-x-mt-2019/p/SN202307-0000000142
+Daihatsu,AYLA,AYLA 1.0 X M/T,94860000,MT,64938,2016,Kab. Bekasi,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-ayla-1-0-x-m-t-2016/p/SN202307-0000000151
+Daihatsu,AYLA,R (AYLA),147000000,MT,30861,2020,Kota Balikpapan,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-2020/p/SN202307-000000233
+Daihatsu,AYLA,R DELUXE (AYLA),150000000,AT,32519,2020,Kota Balikpapan,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-2020/p/SN202307-000000234
+Daihatsu,TERIOS,TERIOS 1.5 X MT,229500000,MT,50550,2021,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-terios-1-5-x-mt-2021/p/SN202305-0000000049
+Daihatsu,SIGRA,1.2 R M/T,130612500,AT,93551,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-2-r-m-t-2019/p/SN202305-0000000027
+Daihatsu,NEW AYLA,1.0 D+ MT MC,103737500,Manual,15382,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2022/p/SN202306-0000003080
+Daihatsu,NEW AYLA,1.0 D+ MT MC,109650000,AT,15333,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2022/p/SN202306-0000003091
+Daihatsu,ALL NEW TERIOS,X M/T IDS,199950000,AT,25785,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-all-new-terios-x-m-t-ids-2022/p/SN202306-0000010032
+Daihatsu,TERIOS,R DELUXE (TERIOS),207000000,AT,36956,2018,Kota Jakarta Timur,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-r-deluxe-2018/p/SN202306-000000483
+Daihatsu,TERIOS,R DELUXE (TERIOS),225000000,AT,88281,2020,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-r-deluxe-2020/p/SN202306-000000484
+Daihatsu,XENIA,R DELUXE (XENIA),190000000,AT,53169,2020,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/daihatsu-xenia-r-deluxe-2020/p/SN202306-000000497
+Daihatsu,TERIOS,R ADVENTURE (TERIOS),165000000,MT,74086,2016,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-r-adventure-2016/p/SN202306-000000509
+Daihatsu,GRANMAX,PU 1.5 M/T,124700000,Manual,15000,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000260
+Daihatsu,GRANMAX,PU 1.5 M/T,123087500,Manual,30000,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2021/p/SN202307-0000000259
+Daihatsu,SIGRA,1.0 D M/T MC,117175000,Manual,15000,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2022/p/SN202307-0000000261
+Daihatsu,TERIOS,R (TERIOS),171557100,MT,117110,2017,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/daihatsu-terios-r-2017/p/SN202307-0000000267
+Daihatsu,AYLA,1.2 R M/T NEW,118250000,Manual,30000,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-1-2-r-m-t-new-2021/p/SN202307-0000000272
+Daihatsu,SIGRA,1.0 D M/T MC,137062500,Manual,37826,2023,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-d-m-t-mc-2023/p/SN202307-0000000279
+Daihatsu,NEW AYLA,1.0 X MT MC,111800000,Manual,34752,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-x-mt-mc-2021/p/SN202307-0000000280
+Daihatsu,ROCKY,1.2 X M/T,157487500,Manual,2875,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-rocky-1-2-x-m-t-2021/p/SN202307-0000000285
+Daihatsu,GRANMAX,PU 1.5 M/T,116637500,Manual,26793,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2021/p/SN202307-0000000287
+Daihatsu,GRANMAX,PU 1.5 M/T,123625000,Manual,45218,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000289
+Daihatsu,ALL NEW TERIOS,R A/T IDS,234887500,Automatic,24976,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-all-new-terios-r-a-t-ids-2022/p/SN202307-0000000288
+Daihatsu,AYLA,X (AYLA),129000000,AT,33702,2019,Kota Pekanbaru,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-x-2019/p/SN202307-000000317
+Daihatsu,NEW AYLA,1.0 D+ MT MC,111800000,Manual,16822,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-new-ayla-1-0-d%2B-mt-mc-2022/p/SN202307-0000000302
+Daihatsu,SIGRA,1.0 M M/T MC,120400000,Manual,15000,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2022/p/SN202307-0000000310
+Daihatsu,SIGRA,1.0 M M/T MC,124162500,Manual,9424,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-sigra-1-0-m-m-t-mc-2022/p/SN202307-0000000312
+Daihatsu,AYLA,R (AYLA),137000000,MT,11353,2020,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-2020/p/SN202307-000000329
+Daihatsu,GRANMAX,PU 1.5 M/T,126850000,Manual,13671,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/daihatsu-granmax-pu-1-5-m-t-2022/p/SN202307-0000000318
+Daihatsu,AYLA,R DELUXE (AYLA),137000000,MT,19091,2020,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-2020/p/SN202307-000000340
+Daihatsu,AYLA,R DELUXE NEW (AYLA),135000000,MT,25733,2020,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/daihatsu-ayla-r-deluxe-new-2020/p/SN202307-000000341
+Honda,CITY,CITY  IVTEC 1.5 E CVT (ALL NEW),265200000,AT,17258,2019,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/honda-city-city-ivtec-1-5-e-cvt-2019/p/SN202208-0000004005
+Honda,BRIO,RS (BRIO),170000000,MT,26077,2021,Kota Pekanbaru,https://www.mobbi.id/in/mobil-bekas/honda-brio-rs-2021/p/SN202303-000000382
+Honda,CRV,ALL NEW CRV 2.0 AT,292491584,AT,51295,2017,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/honda-crv-all-new-crv-2-0-at-2017/p/SN202207-0000001155
+Honda,BRIO,RS (BRIO),169000000,AT,31974,2018,Kota Jakarta Utara,https://www.mobbi.id/in/mobil-bekas/honda-brio-rs-2018/p/SN202212-000000160
+Honda,CRV,CR-V 2.4 AT (NEW),280500000,AT,84194,2016,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/honda-crv-cr-v-2-4-at-2016/p/SN202212-0000006050
+Honda,CRV,CR-V 2.4 AT (NEW),280500000,AT,88658,2016,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/honda-crv-cr-v-2-4-at-2016/p/SN202212-0000006049
+Honda,BRIO,RS (BRIO),197000000,AT,32349,2021,Kota Semarang,https://www.mobbi.id/in/mobil-bekas/honda-brio-rs-2021/p/SN202304-000000338
+Honda,CRV,CR-V 2.4 AT (NEW),267240000,AT,68331,2016,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/honda-crv-cr-v-2-4-at-2016/p/SN202212-0000000090
+Honda,HRV,HRV 1.8 PRESTIGE,306000000,AT,24951,2018,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/honda-hrv-hrv-1-8-prestige-2018/p/SN202212-0000001011
+Honda,CR-V,TURBO (CR-V),424000000,AT,14517,2019,Kota Medan,https://www.mobbi.id/in/mobil-bekas/honda-cr-v-turbo-2019/p/SN202303-000000479
+Honda,BRIO,RS (BRIO),160000000,AT,42634,2018,Kota Semarang,https://www.mobbi.id/in/mobil-bekas/honda-brio-rs-2018/p/SN202306-000000020
+Honda,JAZZ,RS (JAZZ),265000000,AT,38882,2019,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/honda-jazz-rs-2019/p/SN202306-000000032
+Honda,BRIO,E SATYA (BRIO),142000000,AT,70471,2017,Kota Jakarta Timur,https://www.mobbi.id/in/mobil-bekas/honda-brio-e-satya-2017/p/SN202306-000000364
+Honda,CR-V,TURBO PRESTIGE (CR-V),433000000,AT,73350,2018,Kota Semarang,https://www.mobbi.id/in/mobil-bekas/honda-cr-v-turbo-prestige-2018/p/SN202306-000000213
+Honda,BR-V,E PRESTIGE (BR-V),237000000,AT,64795,2020,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/honda-br-v-e-prestige-2020/p/SN202306-000000226
+Honda,BRIO,E SATYA (BRIO),172000000,AT,44709,2020,Kota Semarang,https://www.mobbi.id/in/mobil-bekas/honda-brio-e-satya-2020/p/SN202307-000000284
+Honda,BRIO,E SATYA (BRIO),115260000,MT,27937,2014,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/honda-brio-e-satya-2014/p/SN202307-0000000014
+Honda,BR-V,E (BR-V),177000000,AT,104261,2016,Kota Medan,https://www.mobbi.id/in/mobil-bekas/HONDA-BR-V-E-2016-Bekas/p/SN202002-000000473
+Honda,CRV,CR-V 2.4 AT (NEW),280500000,AT,52860,2016,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/honda-crv-cr-v-2-4-at-2016/p/SN202301-0000002045
+Honda,BRIO,RS (BRIO),145000000,MT,98890,2018,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/honda-brio-rs-2018/p/SN202306-000000456
+Honda,HR-V,S (HR-V),261000000,AT,35035,2020,Kota Palembang,https://www.mobbi.id/in/mobil-bekas/honda-hr-v-s-2020/p/SN202303-000000335
+Honda,BRIO,E SATYA (BRIO),147000000,AT,56653,2018,Kota Jakarta Pusat,https://www.mobbi.id/in/mobil-bekas/honda-brio-e-satya-2018/p/SN202306-000000256
+Honda,CR-V,TURBO PRESTIGE (CR-V),448000000,AT,50131,2018,Kota Palembang,https://www.mobbi.id/in/mobil-bekas/honda-cr-v-turbo-prestige-2018/p/SN202305-000000762
+Honda,CR-V,FENDER (CR-V),297000000,AT,88344,2016,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/honda-cr-v-fender-2016/p/SN202305-000000697
+Honda,JAZZ,RS (JAZZ),262000000,AT,52369,2019,Kota Depok,https://www.mobbi.id/in/mobil-bekas/honda-jazz-rs-2019/p/SN202305-000000678
+Honda,CR-V,TURBO PRESTIGE (CR-V),426000000,AT,54883,2018,Kota Medan,https://www.mobbi.id/in/mobil-bekas/honda-cr-v-turbo-prestige-2018/p/SN202306-000000317
+Honda,BRIO,RS NEW (BRIO),185000000,AT,26676,2018,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/honda-brio-rs-new-2018/p/SN202306-000000326
+Honda,FREED,E (FREED),175000000,AT,135550,2014,Kota Medan,https://www.mobbi.id/in/mobil-bekas/honda-freed-e-2014/p/SN202304-000000245
+Honda,CR-V,(CR-V),288000000,AT,59043,2016,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/honda-cr-v-2016/p/SN202305-000000180
+Honda,ACCORD,VTI-L (ACCORD),679000000,AT,21832,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/honda-accord-vti-l-2022/p/SN202305-000000236
+Honda,CR-V,TURBO (CR-V),376000000,AT,76479,2018,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/honda-cr-v-turbo-2018/p/SN202306-000000498
+Honda,CRV,CR-V 2.4 AT PRESTIGE (NEW),306000000,AT,42422,2015,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/honda-crv-cr-v-2-4-at-prestige-2015/p/SN202212-0000001056
+Honda,CRV,CR-V 2.4 AT PRESTIGE (NEW),316200000,AT,123438,2016,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/honda-crv-cr-v-2-4-at-prestige-2016/p/SN202301-0000002046
+Honda,CR-V,(CR-V),225000000,AT,140407,2014,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/honda-cr-v-2014/p/SN202306-000000136
+Honda,CR-V,(CR-V),125000000,AT,117030,2010,Kota Medan,https://www.mobbi.id/in/mobil-bekas/honda-cr-v-2010/p/SN202305-000000807
+Honda,CIVIC,(CIVIC),199000000,AT,91881,2014,,https://www.mobbi.id/in/mobil-bekas/honda-civic-2014/p/SN202110-000000299
+Honda,CR-V,PRESTIGE (CR-V),272000000,AT,64724,2016,Kota Medan,https://www.mobbi.id/in/mobil-bekas/honda-cr-v-prestige-2016/p/SN202306-000000563
+Honda,JAZZ,RS (JAZZ),233000000,AT,66060,2018,Kota Jakarta Timur,https://www.mobbi.id/in/mobil-bekas/honda-jazz-rs-2018/p/SN202306-000000271
+Honda,BRIO,RS (BRIO),159000000,AT,84684,2018,Kota Jakarta Timur,https://www.mobbi.id/in/mobil-bekas/honda-brio-rs-2018/p/SN202307-000000087
+Honda,BRIO,E SATYA (BRIO),169320000,AT,10660,2020,Kota Bogor,https://www.mobbi.id/in/mobil-bekas/honda-brio-e-satya-2020/p/SN202307-0000000320
+Honda,CRV,CR-V 2.4 AT PRESTIGE (NEW),306000000,AT,67956,2015,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/honda-crv-cr-v-2-4-at-prestige-2015/p/SN202302-0000000003
+Honda,HRV,HRV 1.5 E A/T,280500000,AT,45567,2019,Kota Medan,https://www.mobbi.id/in/mobil-bekas/honda-hrv-hrv-1-5-e-a-t-2019/p/SN202302-0000000008
+Honda,JAZZ,JAZZ E / RS AT (NEW),183600000,AT,111705,2014,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/honda-jazz-jazz-e-rs-at-2014/p/SN202304-0000000002
+Honda,JAZZ,RS (JAZZ),264000000,AT,37849,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/honda-jazz-rs-2019/p/SN202306-000000184
+Honda,JAZZ,RS (JAZZ),248000000,AT,65203,2018,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/honda-jazz-rs-2018/p/SN202306-000000557
+Honda,CR-V,(CR-V),155000000,AT,110047,2011,Kota Jakarta Timur,https://www.mobbi.id/in/mobil-bekas/honda-cr-v-2011/p/SN202307-000000383
+Honda,HR-V,E (HR-V),300000000,AT,40326,2021,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/honda-hr-v-e-2021/p/SN202307-000000395
+Honda,BRIO SATYA,NEW 1.2 E M/T,130612500,Manual,107342,2018,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/honda-brio-satya-new-1-2-e-m-t-2018/p/SN202307-0000002022
+Honda,MOBILIO,MOBILIO S MT (NEW),134640000,MT,98686,2018,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/honda-mobilio-mobilio-s-mt-2018/p/SN202305-0000002165
+Honda,JAZZ,RS (JAZZ),262000000,AT,59025,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/honda-jazz-rs-2019/p/SN202306-000000345
+Honda,BRIO,RS (BRIO),156000000,MT,17822,2018,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/honda-brio-rs-2018/p/SN202306-000000389
+Honda,JAZZ,RS (JAZZ),249000000,AT,69041,2018,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/honda-jazz-rs-2018/p/SN202306-000000393
+Honda,CR-V,TURBO PRESTIGE (CR-V),399000000,AT,69869,2017,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/-cr-v-turbo-prestige-2017/p/SN202307-000000244
+Honda,CR-V,TURBO PRESTIGE (CR-V),478000000,AT,29280,2020,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/honda-cr-v-turbo-prestige-2020/p/SN202307-000000267
+Honda,CITY,RS (CITY),285000000,AT,26299,2021,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/honda-city-rs-2021/p/SN202307-000000274
+Honda,HRV,HRV 1.5 E A/T,300320000,AT,24513,2020,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/honda-hrv-hrv-1-5-e-a-t-2020/p/SN202206-0000001184
+Honda,CRV,CR-V 2.4 AT (ALL NEW),208080000,AT,139157,2012,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/honda-crv-cr-v-2-4-at-2012/p/SN202207-0000002080
+Honda,BRV,BR-V E AT,175440000,AT,139280,2017,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/honda-brv-br-v-e-at-2017/p/SN202303-0000008025
+Honda,JAZZ,RS (JAZZ),257000000,AT,58651,2019,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/honda-jazz-rs-2019/p/SN202306-000000225
+Honda,BRIO,RS (BRIO),155000000,MT,76543,2018,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/honda-brio-rs-2018/p/SN202307-000000001
+Honda,BRIO,RS (BRIO),161000000,AT,72747,2018,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/honda-brio-rs-2018/p/SN202307-000000025
+Honda,BRIO,RS (BRIO),185000000,MT,20626,2022,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/honda-brio-rs-2022/p/SN202307-000000280
+Honda,BRIO SATYA,1.2 E M/T,146200000,AT,35300,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/honda-brio-satya-1-2-e-m-t-2022/p/SN202307-0000000011
+Honda,JAZZ,RS (JAZZ),248000000,AT,34450,2018,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/honda-jazz-rs-2018/p/SN202307-000000047
+Honda,JAZZ,JAZZ E / RS AT (ALL NEW),216240000,AT,108560,2017,Kota Medan,https://www.mobbi.id/in/mobil-bekas/honda-jazz-jazz-e-rs-at-2017/p/SN202210-0000000017
+Honda,HRV,HRV 1.5 S A/T,221340000,AT,52054,2017,Kota Medan,https://www.mobbi.id/in/mobil-bekas/honda-hrv-hrv-1-5-s-a-t-2017/p/SN202210-0000000023
+Honda,CRV,ALL NEW CRV 1.5 TURBO PRESTIGE AT,425340000,AT,58756,2018,Kota Bogor,https://www.mobbi.id/in/mobil-bekas/honda-crv-all-new-crv-1-5-turbo-prestige-at-2018/p/SN202210-0000006025
+Honda,BRV,BR-V E AT,191760000,AT,43654,2017,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/honda-brv-br-v-e-at-2017/p/SN202301-0000002010
+Honda,JAZZ,RS (JAZZ),247000000,AT,54517,2018,Kota Jakarta Timur,https://www.mobbi.id/in/mobil-bekas/honda-jazz-rs-2018/p/SN202306-000000446
+Honda,CR-V,(CR-V),292000000,AT,53291,2017,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/honda-cr-v-2017/p/SN202307-000000103
+Honda,BRIO,E SATYA (BRIO),160000000,MT,26499,2021,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/honda-brio-e-satya-2021/p/SN202307-000000128
+Honda,CALYA,1.2 G A/T,158562500,AT,29069,2021,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/toyota-calya-1-2-g-a-t-2021/p/SN202306-0000006145
+Honda,HRV,HRV 1.5 E A/T SE,265200000,AT,54420,2018,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/honda-hrv-hrv-1-5-e-a-t-se-2018/p/SN202307-0000000026
+Honda,HRV,HRV 1.5 S A/T,260100000,AT,74942,2019,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/honda-hrv-hrv-1-5-s-a-t-2019/p/SN202307-0000000027
+Honda,MOBILIO,RS NEW (MOBILIO),185000000,AT,75142,2017,Kota Jakarta Pusat,https://www.mobbi.id/in/mobil-bekas/honda-mobilio-rs-new-2017/p/SN202307-000000067
+Honda,BRIO SATYA,1.2 E M/T,104812500,AT,100715,2019,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/honda-brio-satya-1-2-e-m-t-2019/p/SN202307-0000000060
+Honda,CR-V,(CR-V),252000000,AT,120939,2016,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/honda-cr-v-2016/p/SN202307-000000624
+Honda,CR-V,TURBO PRESTIGE (CR-V),430000000,AT,75024,2018,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/honda-cr-v-turbo-prestige-2018/p/SN202210-000000169
+Honda,CRV,ALL NEW CRV 1.5 TURBO PRESTIGE AT,433500000,AT,58534,2018,Kota Bogor,https://www.mobbi.id/in/mobil-bekas/honda-crv-all-new-crv-1-5-turbo-prestige-at-2018/p/SN202301-0000002062
+Honda,HRV,HRV 1.5 E A/T,290700000,AT,28928,2020,Kota Bogor,https://www.mobbi.id/in/mobil-bekas/honda-hrv-hrv-1-5-e-a-t-2020/p/SN202301-0000002063
+Honda,HRV,HRV 1.8 PRESTIGE,260100000,AT,62813,2017,Kota Bogor,https://www.mobbi.id/in/mobil-bekas/honda-hrv-hrv-1-8-prestige-2017/p/SN202301-0000002064
+Honda,JAZZ,RS (JAZZ),239000000,AT,89375,2018,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/honda-jazz-rs-2018/p/SN202307-000000204
+Honda,BRIO,E SATYA (BRIO),147000000,AT,29629,2018,Kota Tangerang Selatan,https://www.mobbi.id/in/mobil-bekas/honda-brio-e-satya-2018/p/SN202307-000000217
+Honda,JAZZ,JAZZ E / RS MT (ALL NEW),236961300,MT,41255,2018,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/honda-jazz-jazz-e-rs-mt-2018/p/SN202301-0000002070
+Honda,CRV,CR-V 2.4 AT (OLD),114240000,AT,225616,2007,Kab. Bekasi,https://www.mobbi.id/in/mobil-bekas/honda-crv-cr-v-2-4-at-2007/p/SN202301-0000002074
+Honda,BRIO,BRIO SATYA E 1.2 MT,130560000,MT,34566,2018,Kab. Bekasi,https://www.mobbi.id/in/mobil-bekas/honda-brio-brio-satya-e-1-2-mt-2018/p/SN202303-0000011020
+Honda,MOBILIO,MOBILIO E MT (NEW),168300000,MT,13332,2018,Kab. Bekasi,https://www.mobbi.id/in/mobil-bekas/honda-mobilio-mobilio-e-mt-2018/p/SN202303-0000011021
+Honda,BRIO,RS (BRIO),166000000,AT,35305,2018,Kota Bekasi,https://www.mobbi.id/in/mobil-bekas/honda-brio-rs-2018/p/SN202307-000000288
+Honda,BR-V,1.5 CVT PRESTIGE,288100000,Automatic,8663,2022,Kota Jakarta Selatan,https://www.mobbi.id/in/mobil-bekas/honda-br-v-1-5-cvt-prestige-2022/p/SN202307-0000000298
+Honda,MOBILIO,E (MOBILIO),186000000,AT,53260,2019,Kota Bandung,https://www.mobbi.id/in/mobil-bekas/honda-mobilio-e-2019/p/SN202307-000000349
+Honda,BR-V,E PRESTIGE (BR-V),207000000,AT,54987,2017,Kota Surabaya,https://www.mobbi.id/in/mobil-bekas/honda-br-v-e-prestige-2017/p/SN202307-000000351
